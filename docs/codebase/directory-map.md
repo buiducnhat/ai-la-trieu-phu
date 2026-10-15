@@ -17,6 +17,7 @@ src/components/game/    menu, play screen, answer, ladder, lifeline bar/dialog, 
 src/components/ui/      shadcn + 8bit/ (sinh bởi shadcn CLI từ registry @8bitcn; không sửa tay, bị lint/format bỏ qua)
 src/data/bank/          questions.json, sources.json, README.md (sinh bởi scripts/import-bank.ts)
 src/test/server-only.ts Stub cho marker server-only khi chạy test (alias trong vite.config.ts)
+public/                favicon.ico, icon-192/512.png, apple-touch-icon.png, og-image.png (1200x630); được tham chiếu ở src/routes/__root.tsx
 scripts/import-bank.ts  Tải nguồn công khai -> bank (chạy bằng Bun)
 data/bank-ratings.json  Kết quả chấm độ khó/thể loại/ok bằng LLM (commit, để import không cần LLM)
 .github/workflows/    ci.yml (PR + push main: check/test/build); deploy do Cloudflare Workers Builds, xem architecture/ci-cd-deployment.md
