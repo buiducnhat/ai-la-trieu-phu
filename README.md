@@ -4,6 +4,8 @@ Trò chơi **Ai Là Triệu Phú** tiếng Việt, luật chơi **phiên bản 1
 [TanStack Start](https://tanstack.com/start) fullstack (Vite + React 19, server functions, không có backend tách rời) chạy trên **Cloudflare Workers**, shadcn/ui + [8bitcn](https://www.8bitcn.com/),
 câu hỏi lấy từ bộ dữ liệu công khai hoặc do LLM/AI tạo (cấu hình được).
 
+Bản chạy thử: https://ai-la-trieu-phu.buiducnhat.workers.dev
+
 ## Tài liệu
 
 Xem [docs/SUMMARY.md](docs/SUMMARY.md) (kiến trúc, cấu trúc mã, quy ước, yêu cầu sản phẩm).
