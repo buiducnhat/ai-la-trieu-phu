@@ -16,13 +16,13 @@ flowchart LR
 
 Cloudflare dashboard → Workers & Pages → `ai-la-trieu-phu` → Settings → Builds → Connect (cài GitHub App, chọn repo `buiducnhat/ai-la-trieu-phu`):
 
-| Mục                          | Giá trị                                                               |
-| ---------------------------- | --------------------------------------------------------------------- |
-| Production branch            | `main`                                                                |
-| Build command                | `bun run build`                                                       |
-| Deploy command               | `npx wrangler deploy` (mặc định)                                      |
-| Root directory               | `/`                                                                   |
-| Build variable `BUN_VERSION` | `1.4.3` (mặc định của image là 1.2.15, thấp hơn phiên bản dự án dùng) |
+| Mục                          | Giá trị                                                                                          |
+| ---------------------------- | ------------------------------------------------------------------------------------------------ |
+| Production branch            | `main`                                                                                           |
+| Build command                | `bun run build`                                                                                  |
+| Deploy command               | `bunx wrangler deploy` (không dùng `npx`: `devEngines` yêu cầu bun nên npm báo `EBADDEVENGINES`) |
+| Root directory               | `/`                                                                                              |
+| Build variable `BUN_VERSION` | `1.4.3` (mặc định của image là 1.2.15, thấp hơn phiên bản dự án dùng)                            |
 
 Tên Worker trên dashboard phải khớp `name` trong `wrangler.jsonc` (`ai-la-trieu-phu`). `vp build` (plugin Cloudflare) sinh `dist/server/wrangler.json` và `.wrangler/deploy/config.json`; `wrangler deploy` tự đọc cấu hình chuyển hướng này.
 
