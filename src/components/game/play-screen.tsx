@@ -138,10 +138,9 @@ export function PlayScreen({ game, settings, onToggleSound, onMenu }: Props) {
           <>
             <Card className="w-full">
               <CardContent className="space-y-3 p-5 sm:p-8">
-                <p className="text-base text-muted-foreground sm:text-lg">
-                  {q.category ? `${q.category} · ` : ""}
-                  {q.source}
-                </p>
+                {q.category && (
+                  <p className="text-base text-muted-foreground sm:text-lg">{q.category}</p>
+                )}
                 <h2 className="text-3xl leading-snug sm:text-4xl" aria-live="polite">
                   {q.text}
                 </h2>

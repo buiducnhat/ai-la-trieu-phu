@@ -17,8 +17,6 @@ function q(number: number): PublicQuestion {
     number,
     text: `Câu ${number}?`,
     options: ["A", "B", "C", "D"],
-    source: "test",
-    origin: "bank",
   };
 }
 

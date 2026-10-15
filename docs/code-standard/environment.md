@@ -23,4 +23,4 @@ vp test run                     # unit test
 bun run bank:import             # dựng lại bank công khai (cần mạng)
 ```
 
-Cài đặt người chơi (nguồn, chủ đề, khóa riêng, âm thanh) và thành tích lưu ở `localStorage` (`altp:settings:v1`, `altp:stats:v1`).
+Cài đặt người chơi (nguồn, chủ đề, khóa riêng, âm thanh) và thành tích lưu ở `localStorage` (`altp:settings:v1`, `altp:stats:v1`); 60 câu gần nhất đã ra ở `altp:recent:v1` (để AI không ra lại câu của ván trước).

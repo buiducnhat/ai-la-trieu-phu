@@ -56,7 +56,6 @@ describe("phát câu hỏi từ bộ có sẵn (dữ liệu thật đóng gói t
 describe("chế độ AI khi chưa cấu hình", () => {
   it("quay về bộ có sẵn và báo cho người chơi", async () => {
     const issued = await issueQuestion({ ...base, number: 2, source: "llm" });
-    expect(issued.question.origin).toBe("bank");
     expect(issued.notice).toMatch(/Chưa cấu hình AI/);
   });
 

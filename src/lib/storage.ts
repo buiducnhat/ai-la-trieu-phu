@@ -91,3 +91,18 @@ export function recordGame(record: GameRecord): Stats {
   write(STATS_KEY, next);
   return next;
 }
+
+// ---------- câu hỏi đã ra (qua nhiều ván) ----------
+
+const RECENT_KEY = "altp:recent:v1";
+const RECENT_MAX = 60;
+
+/** Nội dung các câu đã ra ở những ván gần đây, cũ nhất trước; để AI không ra lại câu của ván trước. */
+export function loadRecentQuestions(): string[] {
+  return z.array(z.string()).catch([]).parse(read(RECENT_KEY));
+}
+
+export function rememberQuestion(text: string): void {
+  const rest = loadRecentQuestions().filter((t) => t !== text);
+  write(RECENT_KEY, [...rest, text].slice(-RECENT_MAX));
+}

@@ -6,6 +6,7 @@ import { afterEach, describe, expect, it } from "vite-plus/test";
 import {
   buildPrompt,
   generateQuestion,
+  isNearDuplicate,
   type LlmConfig,
   parseGeneratedQuestion,
   resolveClientLlm,
@@ -193,5 +194,46 @@ describe("generateQuestion qua HTTP giả lập", () => {
     const s = await start(() => ({ status: 401, json: { error: "bad key" } }));
     await expect(generateQuestion(cfg("openai", s.url), { number: 1 })).rejects.toThrow(/401/);
     expect(s.requests).toHaveLength(1);
+  });
+
+  it("câu trùng câu đã ra thì xin lại, câu khác thì nhận", async () => {
+    const other = { ...good, question: "Thủ đô của nước Pháp là thành phố nào?" };
+    let n = 0;
+    const s = await start(() => ({
+      status: 200,
+      json: { choices: [{ message: { content: JSON.stringify(++n === 1 ? good : other) } }] },
+    }));
+    const q = await generateQuestion(cfg("openai", s.url), {
+      number: 1,
+      avoid: ["Con sông nào dài nhất Việt Nam?"],
+    });
+    expect(q.question).toBe(other.question);
+    expect(s.requests).toHaveLength(2);
+  });
+
+  it("hết lượt thử mà vẫn trùng thì ném lỗi để quay về bộ có sẵn", async () => {
+    const s = await start(() => ({
+      status: 200,
+      json: { choices: [{ message: { content: JSON.stringify(good) } }] },
+    }));
+    await expect(
+      generateQuestion(cfg("openai", s.url), { number: 1, avoid: [good.question] }),
+    ).rejects.toThrow(/trùng/);
+    expect(s.requests).toHaveLength(3);
+  });
+});
+
+describe("isNearDuplicate", () => {
+  it("bắt câu diễn đạt lại cùng ý, không bắt câu cùng chủ đề nhưng khác nội dung", () => {
+    const a =
+      "Trong Hệ Mặt Trời, hành tinh nào có chu kỳ tự quay quanh trục dài hơn chu kỳ quay quanh Mặt Trời?";
+    const b =
+      "Trong Hệ Mặt Trời, hành tinh nào có thời gian tự quay một vòng quanh trục dài hơn thời gian quay một vòng quanh Mặt Trời?";
+    expect(isNearDuplicate(b, [a])).toBe(true);
+    expect(isNearDuplicate("Hành tinh nào trong Hệ Mặt Trời có nhiều vệ tinh nhất?", [a])).toBe(
+      false,
+    );
+    expect(isNearDuplicate("Thủ đô của nước Pháp là thành phố nào?", [a])).toBe(false);
+    expect(isNearDuplicate(a, [])).toBe(false);
   });
 });

@@ -102,11 +102,44 @@ const DIFFICULTY: Record<ReturnType<typeof tierOf>, string> = {
   hard: "KHÓ: kiến thức chuyên sâu hoặc chi tiết ít người biết; mọi phương án đều nghe có vẻ hợp lý, người chơi cần hiểu biết thật sự mới chắc chắn.",
 };
 
+/**
+ * Lĩnh vực ra đề. Không có chủ đề do người chơi chọn thì mỗi câu bốc ngẫu nhiên một lĩnh vực;
+ * để mặc định "kiến thức chung" thì model lặp lại đúng vài câu quen thuộc.
+ */
+export const FIELDS = [
+  "Lịch sử Việt Nam",
+  "Lịch sử thế giới",
+  "Địa lý Việt Nam",
+  "Địa lý thế giới",
+  "Văn học Việt Nam",
+  "Văn học thế giới",
+  "Vật lý và Thiên văn",
+  "Hóa học",
+  "Sinh học, động vật và thực vật",
+  "Cơ thể người và Y học",
+  "Toán học và Logic",
+  "Công nghệ và Máy tính",
+  "Âm nhạc",
+  "Điện ảnh và Truyền hình",
+  "Hội họa và Kiến trúc",
+  "Thể thao",
+  "Ẩm thực",
+  "Phong tục và Lễ hội",
+  "Ngôn ngữ, thành ngữ, tục ngữ",
+  "Kinh tế và Tiền tệ",
+  "Chính trị và Pháp luật",
+  "Tôn giáo và Triết học",
+  "Đời sống và Xã hội",
+  "Phát minh và Nhân vật nổi tiếng",
+] as const;
+
 export interface GenerateInput {
   number: number;
   topic?: string;
   /** Nội dung các câu đã ra trong ván để tránh lặp. */
   avoid?: readonly string[];
+  /** Lĩnh vực ra đề khi người chơi không chọn chủ đề (xem FIELDS). */
+  field?: string;
 }
 
 export function buildPrompt(input: GenerateInput): { system: string; user: string } {
@@ -124,7 +157,9 @@ export function buildPrompt(input: GenerateInput): { system: string; user: strin
     `Hãy tạo 1 câu hỏi cho CÂU SỐ ${input.number}/15. Mức độ ${DIFFICULTY[tier]}${extra}`,
     input.topic?.trim()
       ? `Chủ đề: ${input.topic.trim()}.`
-      : "Chủ đề: kiến thức chung (lịch sử, địa lý, văn học, khoa học, văn hóa, thể thao, đời sống...).",
+      : input.field
+        ? `Lĩnh vực bắt buộc: ${input.field}. Chọn một khía cạnh cụ thể, ít bị hỏi đi hỏi lại thay vì ví dụ quen thuộc nhất.`
+        : "Chủ đề: kiến thức chung (lịch sử, địa lý, văn học, khoa học, văn hóa, thể thao, đời sống...).",
     "Yêu cầu:",
     "- Đúng 4 phương án, chỉ 1 phương án đúng, các phương án không trùng nhau và có độ dài tương đương.",
     "- Không dùng 'tất cả các đáp án trên', 'không có đáp án nào đúng'.",
@@ -203,6 +238,21 @@ export function parseGeneratedQuestion(text: string): GeneratedQuestion {
   };
 }
 
+function words(text: string): Set<string> {
+  return new Set(text.toLowerCase().match(/[\p{L}\p{N}]+/gu) ?? []);
+}
+
+/** Hai câu hỏi cùng ý: Jaccard theo từ >= 0,5 (model hay diễn đạt lại đúng một câu). */
+export function isNearDuplicate(text: string, previous: readonly string[]): boolean {
+  const a = words(text);
+  return previous.some((p) => {
+    const b = words(p);
+    let shared = 0;
+    for (const w of a) if (b.has(w)) shared++;
+    return shared / (a.size + b.size - shared) >= 0.5;
+  });
+}
+
 // ---------- gọi API ----------
 
 export class LlmError extends Error {
@@ -231,7 +281,7 @@ async function chat(cfg: LlmConfig, system: string, user: string): Promise<strin
       body: JSON.stringify({
         model: cfg.model,
         max_tokens: 1024,
-        temperature: 0.8,
+        temperature: 1,
         system,
         messages: [{ role: "user", content: user }],
       }),
@@ -253,7 +303,7 @@ async function chat(cfg: LlmConfig, system: string, user: string): Promise<strin
       },
       body: JSON.stringify({
         model: cfg.model,
-        temperature: 0.8,
+        temperature: 1,
         messages: [
           { role: "system", content: system },
           { role: "user", content: user },
@@ -273,9 +323,9 @@ async function chat(cfg: LlmConfig, system: string, user: string): Promise<strin
   return text;
 }
 
-const MAX_ATTEMPTS = 2;
+const MAX_ATTEMPTS = 3;
 
-/** Sinh một câu hỏi; thử lại khi AI trả về dữ liệu không hợp lệ. */
+/** Sinh một câu hỏi; thử lại khi AI trả về dữ liệu không hợp lệ hoặc câu trùng câu đã ra. */
 export async function generateQuestion(
   cfg: LlmConfig,
   input: GenerateInput,
@@ -284,10 +334,13 @@ export async function generateQuestion(
   let lastError: unknown;
   for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
     try {
-      return parseGeneratedQuestion(await chat(cfg, system, user));
+      const q = parseGeneratedQuestion(await chat(cfg, system, user));
+      if (isNearDuplicate(q.question, input.avoid ?? []))
+        throw new Error("Câu hỏi trùng câu đã ra");
+      return q;
     } catch (e) {
       lastError = e;
-      // Lỗi mạng / HTTP không đáng thử lại ngay; chỉ thử lại khi nội dung sai định dạng.
+      // Lỗi mạng / HTTP không đáng thử lại ngay; chỉ thử lại khi nội dung sai định dạng hoặc trùng.
       if (e instanceof LlmError || (e instanceof DOMException && e.name === "TimeoutError")) break;
     }
   }

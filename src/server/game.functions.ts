@@ -32,7 +32,7 @@ export const getPublicConfigFn = createServerFn({ method: "GET" }).handler(
 const questionSchema = z.object({
   number: z.number().int().min(1).max(15),
   exclude: z.array(z.string().max(200)).max(15),
-  avoid: z.array(z.string().max(600)).max(15),
+  avoid: z.array(z.string().max(600)).max(80),
   source: z.enum(["bank", "llm", "mixed"]),
   topic: z.string().max(80),
   llm: z.object({

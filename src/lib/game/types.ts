@@ -8,9 +8,6 @@ export interface PublicQuestion {
   text: string;
   options: [string, string, string, string];
   category?: string;
-  /** Nguồn câu hỏi để hiển thị: tên bộ dữ liệu hoặc "AI". */
-  source: string;
-  origin: "bank" | "llm";
 }
 
 export interface IssuedQuestion {

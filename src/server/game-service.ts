@@ -15,7 +15,7 @@ import type {
 
 import { type BankQuestion, loadBank, pickFromBank, toIssued } from "./bank";
 import { useLifeline } from "./lifelines";
-import { generateQuestion, resolveClientLlm, resolveEnvLlm } from "./llm";
+import { FIELDS, generateQuestion, resolveClientLlm, resolveEnvLlm } from "./llm";
 import { RateLimiter } from "./rate-limit";
 import { shuffleOptions, type Rng } from "./random";
 import { openQuestion, sealQuestion } from "./token";
@@ -87,8 +87,6 @@ function seal(
       text: q.text,
       options: q.options,
       category: q.category,
-      source: q.source,
-      origin: q.origin,
     }),
     token,
     notice,
@@ -163,6 +161,7 @@ export async function issueQuestion(
       number: input.number,
       topic: input.topic,
       avoid: input.avoid,
+      field: FIELDS[Math.floor(rng() * FIELDS.length)],
     });
     const { options, answer } = shuffleOptions(g.options, g.answer, rng);
     const id = `llm-${createHash("sha1").update(g.question).digest("hex").slice(0, 10)}`;

@@ -12,6 +12,7 @@ import {
 import type { LifelineId } from "@/lib/game/rules";
 import type { GameSettings, LifelineResult } from "@/lib/game/types";
 import type { SoundEvent } from "@/lib/sound";
+import { loadRecentQuestions, rememberQuestion } from "@/lib/storage";
 import {
   type ActionResult,
   fetchQuestionFn,
@@ -91,7 +92,7 @@ export function useGame(
           data: {
             number,
             exclude: seen.map((q) => q.id),
-            avoid: seen.map((q) => q.text),
+            avoid: [...new Set([...loadRecentQuestions(), ...seen.map((q) => q.text)])].slice(-80),
             source: s.source,
             topic: s.topic,
             llm: s.llm,
@@ -112,6 +113,7 @@ export function useGame(
     void request(number, loadAttempt, seen).then((result) => {
       if (cancelled) return;
       requests.current.delete(`${number}:${loadAttempt}`);
+      if (result.ok) rememberQuestion(result.data.question.text);
       dispatch(
         result.ok
           ? {
