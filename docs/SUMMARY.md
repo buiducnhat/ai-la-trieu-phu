@@ -11,11 +11,12 @@ Before planning or implementing, read this `docs/SUMMARY.md` file first. Load on
 
 System design, component interactions, data flows, deployment, and external integrations.
 
-| File                                                            | Description                                                         |
-| --------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [game-flow.md](architecture/game-flow.md)                       | Luồng chơi, ranh giới client/server (server function), token đáp án |
-| [question-sources.md](architecture/question-sources.md)         | Bank, URL ngoài, LLM, fallback và giới hạn tần suất                 |
-| [lifelines-simulation.md](architecture/lifelines-simulation.md) | Cách mô phỏng các quyền trợ giúp                                    |
+| File                                                            | Description                                                          |
+| --------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [game-flow.md](architecture/game-flow.md)                       | Luồng chơi, ranh giới client/server (server function), token đáp án  |
+| [question-sources.md](architecture/question-sources.md)         | Bank, URL ngoài, LLM, fallback và giới hạn tần suất                  |
+| [lifelines-simulation.md](architecture/lifelines-simulation.md) | Cách mô phỏng các quyền trợ giúp                                     |
+| [ci-cd-deployment.md](architecture/ci-cd-deployment.md)         | Workflow GitHub Actions, deploy Cloudflare Workers, secret cần thiết |
 
 ## Codebase
 
@@ -29,10 +30,10 @@ Directory structure, entry points, API patterns, and key modules.
 
 Conventions, naming rules, tech stack versions, and development workflows.
 
-| File                                           | Description                                                       |
-| ---------------------------------------------- | ----------------------------------------------------------------- |
-| [conventions.md](code-standard/conventions.md) | Toolchain, phân lớp lib/server/UI, quy ước 8bitcn/font/a11y, test |
-| [environment.md](code-standard/environment.md) | Biến môi trường, lệnh chạy, dữ liệu localStorage                  |
+| File                                           | Description                                                                     |
+| ---------------------------------------------- | ------------------------------------------------------------------------------- |
+| [conventions.md](code-standard/conventions.md) | Toolchain, phân lớp lib/server/UI, quy ước 8bitcn/font/a11y, test, quy trình PR |
+| [environment.md](code-standard/environment.md) | Biến môi trường, lệnh chạy, dữ liệu localStorage                                |
 
 ## Project PDR
 
@@ -46,6 +47,9 @@ Product goals, use cases, business rules, and constraints.
 
 ## Other
 
-| File                                                     | Description                          |
-| -------------------------------------------------------- | ------------------------------------ |
-| [../src/data/bank/README.md](../src/data/bank/README.md) | Schema và cách import lại bộ câu hỏi |
+| File                                                     | Description                                 |
+| -------------------------------------------------------- | ------------------------------------------- |
+| [../src/data/bank/README.md](../src/data/bank/README.md) | Schema và cách import lại bộ câu hỏi        |
+| [../CONTRIBUTING.md](../CONTRIBUTING.md)                 | Thiết lập, quy trình PR, lưu ý khi đóng góp |
+| [../SECURITY.md](../SECURITY.md)                         | Cách báo lỗ hổng, phạm vi hỗ trợ            |
+| [../LICENSE](../LICENSE)                                 | MIT cho mã nguồn; loại trừ bộ câu hỏi       |

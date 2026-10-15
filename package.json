@@ -2,6 +2,15 @@
   "name": "ai-la-trieu-phu",
   "version": "0.1.0",
   "private": true,
+  "description": "Ai Là Triệu Phú 8-bit: game đố vui pixel tiếng Việt, luật 2026, câu hỏi từ kho dữ liệu hoặc do AI soạn. TanStack Start trên Cloudflare Workers.",
+  "homepage": "https://ailatrieuphu.buiducnhat.work",
+  "bugs": "https://github.com/buiducnhat/ai-la-trieu-phu/issues",
+  "license": "MIT",
+  "author": "Nhat Bui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buiducnhat/ai-la-trieu-phu.git"
+  },
   "type": "module",
   "scripts": {
     "dev": "vp dev",

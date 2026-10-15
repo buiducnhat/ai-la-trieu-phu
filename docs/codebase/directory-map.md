@@ -19,6 +19,9 @@ src/data/bank/          questions.json, sources.json, README.md (sinh bởi scri
 src/test/server-only.ts Stub cho marker server-only khi chạy test (alias trong vite.config.ts)
 scripts/import-bank.ts  Tải nguồn công khai -> bank (chạy bằng Bun)
 data/bank-ratings.json  Kết quả chấm độ khó/thể loại/ok bằng LLM (commit, để import không cần LLM)
+.github/workflows/    ci.yml (PR: check/test/build), deploy.yml (push main: ci -> wrangler deploy); xem architecture/ci-cd-deployment.md
+.github/              dependabot.yml, PULL_REQUEST_TEMPLATE.md, ISSUE_TEMPLATE/
+LICENSE (MIT, chỉ phủ mã nguồn), CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md   Tệp cộng đồng mã nguồn mở
 ```
 
 ## Điểm vào

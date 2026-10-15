@@ -1,0 +1,30 @@
+name: Báo lỗi
+description: Có điều gì đó chạy sai
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: Lỗi là gì?
+      description: Mô tả hành vi thực tế và hành vi mong đợi.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Cách tái hiện
+      placeholder: |
+        1. Vào Cài đặt, chọn nguồn câu hỏi ...
+        2. Bắt đầu ván mới ...
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: Môi trường
+      description: Trình duyệt/hệ điều hành, hoặc bản chạy (production / local).
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log hoặc ảnh chụp
+      description: Không dán khóa API hoặc `GAME_SECRET`.

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Báo lỗ hổng bảo mật
+    url: https://github.com/buiducnhat/ai-la-trieu-phu/security/advisories/new
+    about: Báo riêng tư, không tạo issue công khai (xem SECURITY.md).

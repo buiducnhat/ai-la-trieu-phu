@@ -1,14 +1,17 @@
 # Ai Là Triệu Phú 8-bit
 
+[![CI](https://github.com/buiducnhat/ai-la-trieu-phu/actions/workflows/deploy.yml/badge.svg)](https://github.com/buiducnhat/ai-la-trieu-phu/actions/workflows/deploy.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Trò chơi **Ai Là Triệu Phú** tiếng Việt, luật chơi **phiên bản 15 (phát sóng từ 31/03/2026, VTV3)**, giao diện pixel 8-bit.
 [TanStack Start](https://tanstack.com/start) fullstack (Vite + React 19, server functions, không có backend tách rời) chạy trên **Cloudflare Workers**, shadcn/ui + [8bitcn](https://www.8bitcn.com/),
 câu hỏi lấy từ bộ dữ liệu công khai hoặc do LLM/AI tạo (cấu hình được).
 
-Bản chạy thử: https://ai-la-trieu-phu.buiducnhat.workers.dev
+Chơi ngay: https://ailatrieuphu.buiducnhat.work
 
 ## Tài liệu
 
-Xem [docs/SUMMARY.md](docs/SUMMARY.md) (kiến trúc, cấu trúc mã, quy ước, yêu cầu sản phẩm).
+Xem [docs/SUMMARY.md](docs/SUMMARY.md) (kiến trúc, cấu trúc mã, quy ước, yêu cầu sản phẩm). Đóng góp: [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Chạy thử
 
@@ -38,6 +41,9 @@ Biến không bí mật (`LLM_PROVIDER`, `LLM_MODEL`, `QUESTION_SOURCE`, `QUESTI
 | `vp check`                          | Format + lint + type-check (Vite+)         |
 | `vp test run`                       | Unit test (Vitest qua Vite+)               |
 | `bun run bank:import`               | Tải lại và dựng lại bộ câu hỏi công khai   |
+
+Deploy tự động: merge vào `main` → GitHub Actions chạy check/test/build rồi `wrangler deploy`. Cần secret
+`CLOUDFLARE_API_TOKEN` và `CLOUDFLARE_ACCOUNT_ID` ([chi tiết](docs/architecture/ci-cd-deployment.md)).
 
 ## Luật chơi (cập nhật 2026)
 
@@ -101,3 +107,8 @@ src/components/game, ui/8bit      giao diện (8bitcn / shadcn)
 - Phương án được xáo trộn phía server cho mọi câu hỏi (bộ dữ liệu thường có đáp án lệch về một vị trí).
 - Phông: VT323 (đủ dấu tiếng Việt) cho chữ, Press Start 2P chỉ cho chữ số — Press Start 2P không có glyph tiếng Việt.
 - Âm thanh 8-bit tổng hợp bằng WebAudio, không cần file; thành tích lưu `localStorage`.
+
+## Giấy phép
+
+Mã nguồn: [MIT](LICENSE). Bộ câu hỏi trong `src/data/bank/` lấy từ nguồn không nêu giấy phép nên **không** thuộc giấy phép này
+(xem [src/data/bank/README.md](src/data/bank/README.md)). Báo lỗ hổng: [SECURITY.md](SECURITY.md).

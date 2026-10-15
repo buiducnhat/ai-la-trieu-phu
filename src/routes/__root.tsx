@@ -11,20 +11,33 @@ import "@fontsource/press-start-2p/index.css";
 
 import appCss from "../styles/globals.css?url";
 
+const SITE_URL = "https://ailatrieuphu.buiducnhat.work";
+const SITE_TITLE = "Ai Là Triệu Phú 8-bit · Chơi đố vui pixel online";
+const SITE_DESCRIPTION =
+  "Chơi Ai Là Triệu Phú online miễn phí, giao diện pixel 8-bit: 15 câu hỏi lên 500 triệu, 4 quyền trợ giúp, luật mới 2026. Câu hỏi từ kho dữ liệu hoặc do AI soạn riêng cho bạn.";
+
 export const Route = createRootRoute({
   head: () => ({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { name: "theme-color", content: "#0b1240" },
-      { title: "Ai Là Triệu Phú 8-bit" },
-      {
-        name: "description",
-        content:
-          "Trò chơi Ai Là Triệu Phú phong cách 8-bit: 15 câu hỏi, 500 triệu đồng, luật chơi 2026, câu hỏi từ bộ dữ liệu công khai hoặc do AI tạo.",
-      },
+      { title: SITE_TITLE },
+      { name: "description", content: SITE_DESCRIPTION },
+      { property: "og:type", content: "website" },
+      { property: "og:locale", content: "vi_VN" },
+      { property: "og:site_name", content: "Ai Là Triệu Phú 8-bit" },
+      { property: "og:title", content: SITE_TITLE },
+      { property: "og:description", content: SITE_DESCRIPTION },
+      { property: "og:url", content: SITE_URL },
+      { name: "twitter:card", content: "summary" },
+      { name: "twitter:title", content: SITE_TITLE },
+      { name: "twitter:description", content: SITE_DESCRIPTION },
     ],
-    links: [{ rel: "stylesheet", href: appCss }],
+    links: [
+      { rel: "stylesheet", href: appCss },
+      { rel: "canonical", href: SITE_URL },
+    ],
   }),
   component: RootComponent,
 });
