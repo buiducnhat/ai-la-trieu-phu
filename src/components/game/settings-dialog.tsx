@@ -53,7 +53,7 @@ export function SettingsDialog({ open, onOpenChange, settings, onChange, config 
 
   return (
     <Dialog open={open} onOpenChange={onOpenChange}>
-      <DialogContent className="max-h-[90dvh] max-w-xl overflow-y-auto">
+      <DialogContent className="flex max-h-[90dvh] max-w-xl flex-col">
         <DialogHeader>
           <DialogTitle className="text-2xl text-gold">Cài đặt</DialogTitle>
           <DialogDescription className="text-lg">
@@ -61,7 +61,7 @@ export function SettingsDialog({ open, onOpenChange, settings, onChange, config 
           </DialogDescription>
         </DialogHeader>
 
-        <div className="space-y-6 text-xl">
+        <div className="min-h-0 flex-1 space-y-6 overflow-x-hidden overflow-y-auto pr-3 pl-2 text-xl">
           <section className="space-y-2">
             <Label>Nguồn câu hỏi</Label>
             <div role="radiogroup" aria-label="Nguồn câu hỏi" className="flex flex-wrap gap-3">

@@ -214,12 +214,14 @@ export function PlayScreen({ game, settings, onToggleSound, onMenu }: Props) {
       </aside>
 
       <Dialog open={ladderOpen} onOpenChange={setLadderOpen}>
-        <DialogContent className="max-h-[90dvh] max-w-sm overflow-y-auto">
+        <DialogContent className="flex max-h-[90dvh] max-w-sm flex-col">
           <DialogHeader>
             <DialogTitle className="text-gold">Thang tiền</DialogTitle>
             <DialogDescription className="sr-only">Thang tiền thưởng 15 câu hỏi</DialogDescription>
           </DialogHeader>
-          <PrizeLadder current={state.number} answered={answered} />
+          <div className="min-h-0 flex-1 overflow-x-hidden overflow-y-auto pr-3">
+            <PrizeLadder current={state.number} answered={answered} />
+          </div>
         </DialogContent>
       </Dialog>
 

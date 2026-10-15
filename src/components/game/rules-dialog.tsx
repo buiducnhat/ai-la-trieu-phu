@@ -25,7 +25,7 @@ interface Props {
 export function RulesDialog({ open, onOpenChange }: Props) {
   return (
     <Dialog open={open} onOpenChange={onOpenChange}>
-      <DialogContent className="max-h-[90dvh] max-w-2xl overflow-y-auto">
+      <DialogContent className="flex max-h-[90dvh] max-w-2xl flex-col">
         <DialogHeader>
           <DialogTitle className="text-2xl text-gold">Luật chơi</DialogTitle>
           <DialogDescription className="text-lg">
@@ -33,7 +33,7 @@ export function RulesDialog({ open, onOpenChange }: Props) {
           </DialogDescription>
         </DialogHeader>
 
-        <div className="space-y-5 text-xl leading-snug">
+        <div className="min-h-0 flex-1 space-y-5 overflow-x-hidden overflow-y-auto pr-3 text-xl leading-snug">
           <section className="space-y-1">
             <h3 className="text-gold">Cách chơi</h3>
             <ul className="list-disc space-y-1 pl-5">

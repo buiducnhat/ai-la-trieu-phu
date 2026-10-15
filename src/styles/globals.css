@@ -78,6 +78,42 @@
   }
 }
 
+/* Scrollbar pixel: thanh vuông, viền cứng, thumb vàng (cùng phong cách 8bitcn). */
+* {
+  scrollbar-width: auto;
+  scrollbar-color: var(--gold) var(--background);
+}
+@supports selector(::-webkit-scrollbar) {
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: auto;
+  }
+  ::-webkit-scrollbar {
+    width: 14px;
+    height: 14px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(--background);
+    border: 2px solid var(--border);
+    border-radius: 0;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--gold);
+    border: 2px solid var(--background);
+    border-radius: 0;
+    box-shadow: inset -2px -2px 0 oklch(0.65 0.15 85);
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: oklch(0.92 0.15 90);
+  }
+  ::-webkit-scrollbar-corner {
+    background: var(--background);
+  }
+  ::-webkit-scrollbar-button {
+    display: none;
+  }
+}
+
 @layer utilities {
   .font-pixel {
     font-family: var(--font-pixel);
