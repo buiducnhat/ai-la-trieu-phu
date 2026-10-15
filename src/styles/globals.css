@@ -1,0 +1,146 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-retro);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --color-gold: var(--gold);
+  --color-correct: var(--correct);
+  --color-wrong: var(--wrong);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+/* Giao diện "ghế nóng": nền xanh đêm, viền pixel sáng, điểm nhấn vàng. */
+:root {
+  --font-retro: "VT323", ui-monospace, monospace;
+  --font-pixel: "Press Start 2P", "VT323", monospace;
+  --radius: 0rem;
+  --background: oklch(0.2 0.075 266);
+  --foreground: oklch(0.96 0.02 95);
+  --card: oklch(0.26 0.1 266);
+  --card-foreground: oklch(0.96 0.02 95);
+  --popover: oklch(0.26 0.1 266);
+  --popover-foreground: oklch(0.96 0.02 95);
+  --primary: oklch(0.85 0.17 85);
+  --primary-foreground: oklch(0.2 0.075 266);
+  --secondary: oklch(0.32 0.11 266);
+  --secondary-foreground: oklch(0.96 0.02 95);
+  --muted: oklch(0.3 0.09 266);
+  --muted-foreground: oklch(0.78 0.04 266);
+  --accent: oklch(0.34 0.12 266);
+  --accent-foreground: oklch(0.96 0.02 95);
+  --destructive: oklch(0.65 0.22 25);
+  --border: oklch(0.5 0.12 266);
+  --input: oklch(0.4 0.11 266);
+  --ring: oklch(0.85 0.17 85);
+  --gold: oklch(0.85 0.17 85);
+  --correct: oklch(0.72 0.2 145);
+  --wrong: oklch(0.65 0.22 25);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    color-scheme: dark;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-size: 20px;
+    background-image:
+      radial-gradient(ellipse at 50% -10%, oklch(0.32 0.14 266 / 0.9), transparent 60%),
+      repeating-linear-gradient(0deg, oklch(1 0 0 / 0.025) 0 2px, transparent 2px 4px);
+    background-attachment: fixed;
+    min-height: 100dvh;
+  }
+}
+
+@layer utilities {
+  .font-pixel {
+    font-family: var(--font-pixel);
+  }
+}
+
+@keyframes blink-pixel {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.35;
+  }
+}
+
+@keyframes shake-pixel {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  20% {
+    transform: translateX(-6px);
+  }
+  40% {
+    transform: translateX(6px);
+  }
+  60% {
+    transform: translateX(-4px);
+  }
+  80% {
+    transform: translateX(4px);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .animate-blink-pixel {
+    animation: blink-pixel 0.7s steps(2, end) infinite;
+  }
+  .animate-shake-pixel {
+    animation: shake-pixel 0.4s steps(6, end);
+  }
+}
+
+/* Khung pixel dùng cho đáp án, quyền trợ giúp, thang tiền (cùng phong cách 8bitcn). */
+@layer components {
+  .pixel-box {
+    --pb: var(--ring);
+    position: relative;
+    margin: 4px;
+    box-shadow:
+      0 -4px 0 0 var(--pb),
+      0 4px 0 0 var(--pb),
+      -4px 0 0 0 var(--pb),
+      4px 0 0 0 var(--pb);
+  }
+  .pixel-box[data-state="selected"] {
+    --pb: var(--gold);
+  }
+  .pixel-box[data-state="correct"] {
+    --pb: var(--correct);
+  }
+  .pixel-box[data-state="wrong"] {
+    --pb: var(--wrong);
+  }
+}

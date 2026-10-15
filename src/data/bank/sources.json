@@ -1,0 +1,18 @@
+[
+  {
+    "id": "hf-thaotac870",
+    "name": "HuggingFace · ailatrieuphu-870 (thaotac.com)",
+    "url": "https://huggingface.co/datasets/nlplabtdtu/general-multi-choices-ailatrieuphu-870",
+    "license": "unspecified",
+    "notes": "870 câu trắc nghiệm kiểu Ai là triệu phú; dataset không ghi giấy phép. Mức độ do LLM đánh giá.",
+    "count": 690
+  },
+  {
+    "id": "gh-zero4897hn",
+    "name": "GitHub · zero4897hn/AiLaTrieuPhu",
+    "url": "https://github.com/zero4897hn/AiLaTrieuPhu",
+    "license": "unspecified",
+    "notes": "Ba file sqlite của app Android, bảng CauHoiDe/CauHoiThuong/CauHoiKho (dễ/thường/khó) làm tiền đề mức độ; repo không có LICENSE.",
+    "count": 514
+  }
+]

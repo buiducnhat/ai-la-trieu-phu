@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ai-la-trieu-phu",
+  "compatibility_date": "2025-09-02",
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "@tanstack/react-start/server-entry",
+  // Biến cấu hình (QUESTION_SOURCE, LLM_PROVIDER, LLM_MODEL, LLM_BASE_URL, QUESTION_BANK_URLS):
+  // thêm khối "vars" ở đây hoặc đặt trên dashboard. Bí mật (GAME_SECRET, LLM_API_KEY):
+  // `wrangler secret put <TÊN>`. Chạy local/preview: .dev.vars (xem .dev.vars.example).
+}

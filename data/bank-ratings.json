@@ -1,0 +1,8630 @@
+{
+ "gh-zero4897hn-000d4c11ef": {
+  "level": 5,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 1.1667
+ },
+ "gh-zero4897hn-01457ec08c": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.1783
+ },
+ "gh-zero4897hn-0151113269": {
+  "level": 8,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.0767
+ },
+ "gh-zero4897hn-01d95fef4a": {
+  "level": 6,
+  "ok": false,
+  "category": "Ngôn ngữ",
+  "score": 3.1317
+ },
+ "gh-zero4897hn-020403b4a3": {
+  "level": 9,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.2133
+ },
+ "gh-zero4897hn-0359729371": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1933
+ },
+ "gh-zero4897hn-0405fd482f": {
+  "level": 14,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.1783
+ },
+ "gh-zero4897hn-0488ec0813": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.2117
+ },
+ "gh-zero4897hn-04aa6d097d": {
+  "level": 7,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 1.2
+ },
+ "gh-zero4897hn-04c1a68063": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.2283
+ },
+ "gh-zero4897hn-0529b65063": {
+  "level": 8,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.145
+ },
+ "gh-zero4897hn-060ff4cdb4": {
+  "level": 11,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.2067
+ },
+ "gh-zero4897hn-06293f78e0": {
+  "level": 13,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.2667
+ },
+ "gh-zero4897hn-0749523c6a": {
+  "level": 15,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.24
+ },
+ "gh-zero4897hn-075af65e60": {
+  "level": 6,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.1967
+ },
+ "gh-zero4897hn-076c81d1b4": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1067
+ },
+ "gh-zero4897hn-07e746d8e8": {
+  "level": 11,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.1417
+ },
+ "gh-zero4897hn-07f6384d87": {
+  "level": 8,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.13
+ },
+ "gh-zero4897hn-083cdba7ad": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 2.125
+ },
+ "gh-zero4897hn-08c7ff1e0f": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 2.1433
+ },
+ "gh-zero4897hn-09070e0467": {
+  "level": 15,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 4.1767
+ },
+ "gh-zero4897hn-09369df69c": {
+  "level": 1,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.1
+ },
+ "gh-zero4897hn-09e7b1cdc7": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.0783
+ },
+ "gh-zero4897hn-09fea0225e": {
+  "level": 6,
+  "ok": false,
+  "category": "Lịch sử",
+  "score": 2.2
+ },
+ "gh-zero4897hn-0a91014e4f": {
+  "level": 13,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 2.225
+ },
+ "gh-zero4897hn-0ad7aa2faf": {
+  "level": 7,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.1517
+ },
+ "gh-zero4897hn-0b4cd4543c": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.205
+ },
+ "gh-zero4897hn-0b671d63ad": {
+  "level": 6,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.105
+ },
+ "gh-zero4897hn-0b6ee19a14": {
+  "level": 9,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.1967
+ },
+ "gh-zero4897hn-0b8e41c737": {
+  "level": 15,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 3.2267
+ },
+ "gh-zero4897hn-0be5486ccc": {
+  "level": 7,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1567
+ },
+ "gh-zero4897hn-0c03fd0473": {
+  "level": 7,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1717
+ },
+ "gh-zero4897hn-0c4140f154": {
+  "level": 6,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 1.165
+ },
+ "gh-zero4897hn-0cedf22bcc": {
+  "level": 1,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.0683
+ },
+ "gh-zero4897hn-0cf2c8caf1": {
+  "level": 8,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.145
+ },
+ "gh-zero4897hn-0d0f56dedb": {
+  "level": 5,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.11
+ },
+ "gh-zero4897hn-0d234d0a0d": {
+  "level": 9,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 2.1733
+ },
+ "gh-zero4897hn-0d290e3b66": {
+  "level": 3,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.2267
+ },
+ "gh-zero4897hn-0d47518d31": {
+  "level": 6,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 4.2767
+ },
+ "gh-zero4897hn-0d9ca28875": {
+  "level": 8,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.21
+ },
+ "gh-zero4897hn-0db086e7ca": {
+  "level": 6,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 1.2283
+ },
+ "gh-zero4897hn-0df0b96e0c": {
+  "level": 4,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.155
+ },
+ "gh-zero4897hn-0dfe9d40e2": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1017
+ },
+ "gh-zero4897hn-0e3853fa2e": {
+  "level": 1,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.0933
+ },
+ "gh-zero4897hn-0e7eeeed15": {
+  "level": 8,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.2317
+ },
+ "gh-zero4897hn-0edd0989c0": {
+  "level": 7,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.2
+ },
+ "gh-zero4897hn-0f1b21bc4e": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1833
+ },
+ "gh-zero4897hn-0f48e37808": {
+  "level": 13,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1783
+ },
+ "gh-zero4897hn-0fafe02c2f": {
+  "level": 6,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 2.2133
+ },
+ "gh-zero4897hn-0fd55fed71": {
+  "level": 15,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.275
+ },
+ "gh-zero4897hn-1048e80834": {
+  "level": 3,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.2283
+ },
+ "gh-zero4897hn-1088da16bd": {
+  "level": 9,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.2483
+ },
+ "gh-zero4897hn-11009f1771": {
+  "level": 11,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.1933
+ },
+ "gh-zero4897hn-1243fcb8e1": {
+  "level": 2,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.1633
+ },
+ "gh-zero4897hn-12a1c153ef": {
+  "level": 6,
+  "ok": false,
+  "category": "Văn học",
+  "score": 3.2483
+ },
+ "gh-zero4897hn-12e3342cd1": {
+  "level": 1,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 2.1233
+ },
+ "gh-zero4897hn-137de88a5a": {
+  "level": 15,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 3.2167
+ },
+ "gh-zero4897hn-139361744b": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.2567
+ },
+ "gh-zero4897hn-13e6c1fce5": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.1633
+ },
+ "gh-zero4897hn-1440488651": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 2.1417
+ },
+ "gh-zero4897hn-14a39288a9": {
+  "level": 11,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 3.2017
+ },
+ "gh-zero4897hn-14d8254b66": {
+  "level": 9,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.195
+ },
+ "gh-zero4897hn-1514562113": {
+  "level": 12,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.3533
+ },
+ "gh-zero4897hn-154977fe2e": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.2117
+ },
+ "gh-zero4897hn-15f795ac93": {
+  "level": 1,
+  "ok": false,
+  "category": "Ngôn ngữ",
+  "score": 2.14
+ },
+ "gh-zero4897hn-1625a91c48": {
+  "level": 14,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.1617
+ },
+ "gh-zero4897hn-16d160266c": {
+  "level": 6,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 0.1033
+ },
+ "gh-zero4897hn-16eed136b4": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.1283
+ },
+ "gh-zero4897hn-16fe0380d9": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn học",
+  "score": 4.285
+ },
+ "gh-zero4897hn-17714a7c9f": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0767
+ },
+ "gh-zero4897hn-179433be90": {
+  "level": 1,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 0.09
+ },
+ "gh-zero4897hn-17c4d0abb6": {
+  "level": 6,
+  "ok": false,
+  "category": "Lịch sử",
+  "score": 3.15
+ },
+ "gh-zero4897hn-180162db52": {
+  "level": 12,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 2.1383
+ },
+ "gh-zero4897hn-19304c47ef": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.245
+ },
+ "gh-zero4897hn-195cc07572": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.1367
+ },
+ "gh-zero4897hn-1a17daadd4": {
+  "level": 11,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 1.1233
+ },
+ "gh-zero4897hn-1a562fc56b": {
+  "level": 8,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.2717
+ },
+ "gh-zero4897hn-1b6e93a65a": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.1067
+ },
+ "gh-zero4897hn-1c6b91a584": {
+  "level": 12,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 2.09
+ },
+ "gh-zero4897hn-1cf9753364": {
+  "level": 9,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.215
+ },
+ "gh-zero4897hn-1d2cea6db2": {
+  "level": 9,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.175
+ },
+ "gh-zero4897hn-1e7ef53195": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.1967
+ },
+ "gh-zero4897hn-1ee6abca8b": {
+  "level": 14,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 3.1233
+ },
+ "gh-zero4897hn-1f4a97dd36": {
+  "level": 12,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 2.1417
+ },
+ "gh-zero4897hn-1f7e76900a": {
+  "level": 12,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.15
+ },
+ "gh-zero4897hn-1f8d62ac28": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1283
+ },
+ "gh-zero4897hn-1fceda3861": {
+  "level": 6,
+  "ok": true,
+  "category": "Toán học",
+  "score": 1.08
+ },
+ "gh-zero4897hn-20344eaa10": {
+  "level": 11,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.1767
+ },
+ "gh-zero4897hn-2040e06a8f": {
+  "level": 3,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.19
+ },
+ "gh-zero4897hn-219b1b02e3": {
+  "level": 11,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 2.165
+ },
+ "gh-zero4897hn-21c2ec576e": {
+  "level": 11,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.0933
+ },
+ "gh-zero4897hn-21dc53558f": {
+  "level": 11,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 2.165
+ },
+ "gh-zero4897hn-21e594edd8": {
+  "level": 12,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1533
+ },
+ "gh-zero4897hn-21f455e8b9": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1033
+ },
+ "gh-zero4897hn-22089e9ce1": {
+  "level": 7,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.14
+ },
+ "gh-zero4897hn-221d882124": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1267
+ },
+ "gh-zero4897hn-22e85eeb4b": {
+  "level": 1,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.0817
+ },
+ "gh-zero4897hn-233093a77b": {
+  "level": 8,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.2067
+ },
+ "gh-zero4897hn-238dd57a56": {
+  "level": 13,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 2.2133
+ },
+ "gh-zero4897hn-243a5d6f91": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1017
+ },
+ "gh-zero4897hn-2441f9b020": {
+  "level": 6,
+  "ok": false,
+  "category": "Toán học",
+  "score": 2.1017
+ },
+ "gh-zero4897hn-245f29cba0": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.2783
+ },
+ "gh-zero4897hn-24a530639a": {
+  "level": 10,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.2683
+ },
+ "gh-zero4897hn-251dab17e5": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.055
+ },
+ "gh-zero4897hn-255fcf05c2": {
+  "level": 5,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1117
+ },
+ "gh-zero4897hn-25720a94f0": {
+  "level": 11,
+  "ok": false,
+  "category": "Lịch sử",
+  "score": 3.12
+ },
+ "gh-zero4897hn-2582cc35ac": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.105
+ },
+ "gh-zero4897hn-25f1eccf37": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1583
+ },
+ "gh-zero4897hn-25f40fa929": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.085
+ },
+ "gh-zero4897hn-26041f24df": {
+  "level": 10,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 3.2583
+ },
+ "gh-zero4897hn-26275519d5": {
+  "level": 2,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.12
+ },
+ "gh-zero4897hn-26bc57d0ea": {
+  "level": 1,
+  "ok": false,
+  "category": "Ngôn ngữ",
+  "score": 1.0867
+ },
+ "gh-zero4897hn-272fb7706d": {
+  "level": 6,
+  "ok": false,
+  "category": "Văn học",
+  "score": 1.2333
+ },
+ "gh-zero4897hn-27d80bbaf3": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1067
+ },
+ "gh-zero4897hn-27f0e4b2e6": {
+  "level": 11,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 3.1833
+ },
+ "gh-zero4897hn-28fdb2c66e": {
+  "level": 14,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.1733
+ },
+ "gh-zero4897hn-2907e53894": {
+  "level": 15,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 4.2217
+ },
+ "gh-zero4897hn-299b93aa7c": {
+  "level": 13,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.2533
+ },
+ "gh-zero4897hn-2a2a3a5890": {
+  "level": 6,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 2.3433
+ },
+ "gh-zero4897hn-2a72910962": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.22
+ },
+ "gh-zero4897hn-2a835e3a6d": {
+  "level": 3,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1
+ },
+ "gh-zero4897hn-2ae7f4e4cf": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.205
+ },
+ "gh-zero4897hn-2b2425d3c6": {
+  "level": 7,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.1383
+ },
+ "gh-zero4897hn-2b38c9b184": {
+  "level": 8,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 2.1283
+ },
+ "gh-zero4897hn-2c48a26243": {
+  "level": 9,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.2467
+ },
+ "gh-zero4897hn-2cbc7b41a3": {
+  "level": 12,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.2583
+ },
+ "gh-zero4897hn-2d3366aad9": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.2
+ },
+ "gh-zero4897hn-2d58818023": {
+  "level": 15,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.2133
+ },
+ "gh-zero4897hn-2da14cbc23": {
+  "level": 1,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 1.0933
+ },
+ "gh-zero4897hn-2db4332953": {
+  "level": 11,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.1767
+ },
+ "gh-zero4897hn-2e26c3f827": {
+  "level": 10,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 3.13
+ },
+ "gh-zero4897hn-2e7ca3eb38": {
+  "level": 13,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.095
+ },
+ "gh-zero4897hn-2f4aa8dd47": {
+  "level": 10,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.2583
+ },
+ "gh-zero4897hn-2f85c29973": {
+  "level": 1,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.0733
+ },
+ "gh-zero4897hn-2f8e2f230a": {
+  "level": 2,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.135
+ },
+ "gh-zero4897hn-2f9cf59ffb": {
+  "level": 11,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 3.22
+ },
+ "gh-zero4897hn-300442a669": {
+  "level": 7,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.14
+ },
+ "gh-zero4897hn-3023bb405f": {
+  "level": 6,
+  "ok": false,
+  "category": "Ngôn ngữ",
+  "score": 2.135
+ },
+ "gh-zero4897hn-305df28745": {
+  "level": 1,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 0.1017
+ },
+ "gh-zero4897hn-30cf6b45ec": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1667
+ },
+ "gh-zero4897hn-30ff42f153": {
+  "level": 6,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 2.1767
+ },
+ "gh-zero4897hn-31273479d9": {
+  "level": 3,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.0633
+ },
+ "gh-zero4897hn-33350baa31": {
+  "level": 11,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 2.1133
+ },
+ "gh-zero4897hn-33d84e2a3a": {
+  "level": 15,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 3.2417
+ },
+ "gh-zero4897hn-34459c820e": {
+  "level": 3,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.0983
+ },
+ "gh-zero4897hn-34c31f9c2c": {
+  "level": 11,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.1433
+ },
+ "gh-zero4897hn-34f0fb56a0": {
+  "level": 3,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.0733
+ },
+ "gh-zero4897hn-34f4be661b": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1267
+ },
+ "gh-zero4897hn-34f61de768": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.225
+ },
+ "gh-zero4897hn-34fc05860f": {
+  "level": 11,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 3.2133
+ },
+ "gh-zero4897hn-3636bb4555": {
+  "level": 9,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.1533
+ },
+ "gh-zero4897hn-368b4a9ee9": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.165
+ },
+ "gh-zero4897hn-36bd909dc1": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.26
+ },
+ "gh-zero4897hn-36d7762566": {
+  "level": 8,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 1.2783
+ },
+ "gh-zero4897hn-36de0e8cf0": {
+  "level": 6,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 4.1433
+ },
+ "gh-zero4897hn-36ea37ddd7": {
+  "level": 11,
+  "ok": false,
+  "category": "Văn học",
+  "score": 3.2633
+ },
+ "gh-zero4897hn-36fa1cf365": {
+  "level": 11,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 1.1983
+ },
+ "gh-zero4897hn-37a3d2d8e3": {
+  "level": 2,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.1667
+ },
+ "gh-zero4897hn-37ff9af34a": {
+  "level": 11,
+  "ok": false,
+  "category": "Văn học",
+  "score": 3.205
+ },
+ "gh-zero4897hn-381b29b02c": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.2533
+ },
+ "gh-zero4897hn-38442b7564": {
+  "level": 6,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 2.0933
+ },
+ "gh-zero4897hn-3853567acc": {
+  "level": 12,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.15
+ },
+ "gh-zero4897hn-38d7f750c9": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.155
+ },
+ "gh-zero4897hn-391775940c": {
+  "level": 15,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 4.13
+ },
+ "gh-zero4897hn-3978f83fcf": {
+  "level": 6,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.145
+ },
+ "gh-zero4897hn-39c66d71be": {
+  "level": 11,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 3.1817
+ },
+ "gh-zero4897hn-39dc816907": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.1317
+ },
+ "gh-zero4897hn-39f739e2d8": {
+  "level": 8,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.285
+ },
+ "gh-zero4897hn-3a11863c7c": {
+  "level": 11,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.1767
+ },
+ "gh-zero4897hn-3a36efb119": {
+  "level": 6,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.3633
+ },
+ "gh-zero4897hn-3b4e992c8c": {
+  "level": 8,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.36
+ },
+ "gh-zero4897hn-3bbb2d230c": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.135
+ },
+ "gh-zero4897hn-3c5ff27650": {
+  "level": 11,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.14
+ },
+ "gh-zero4897hn-3c7f46a5c7": {
+  "level": 10,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 3.3067
+ },
+ "gh-zero4897hn-3cc8374941": {
+  "level": 6,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.08
+ },
+ "gh-zero4897hn-3cdaed1cb6": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 4.2317
+ },
+ "gh-zero4897hn-3eca3c9ff9": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.2233
+ },
+ "gh-zero4897hn-3ee6d2babc": {
+  "level": 8,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.13
+ },
+ "gh-zero4897hn-3fcab28831": {
+  "level": 3,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.0883
+ },
+ "gh-zero4897hn-40a4369a03": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn học",
+  "score": 4.1917
+ },
+ "gh-zero4897hn-427ee3c0d0": {
+  "level": 9,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.16
+ },
+ "gh-zero4897hn-4381be066d": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.125
+ },
+ "gh-zero4897hn-43b441bc01": {
+  "level": 15,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 3.2067
+ },
+ "gh-zero4897hn-4554572238": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1767
+ },
+ "gh-zero4897hn-45632b7142": {
+  "level": 8,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.215
+ },
+ "gh-zero4897hn-45640dba74": {
+  "level": 12,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 2.1083
+ },
+ "gh-zero4897hn-45972fa083": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.1433
+ },
+ "gh-zero4897hn-459feaa698": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.11
+ },
+ "gh-zero4897hn-45cd515bb3": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1633
+ },
+ "gh-zero4897hn-464bf46f9c": {
+  "level": 10,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.2917
+ },
+ "gh-zero4897hn-465b3a8abe": {
+  "level": 3,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.225
+ },
+ "gh-zero4897hn-46f26bc419": {
+  "level": 7,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.1517
+ },
+ "gh-zero4897hn-470ed7b539": {
+  "level": 11,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.0933
+ },
+ "gh-zero4897hn-47528d34db": {
+  "level": 11,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.1383
+ },
+ "gh-zero4897hn-475bb66536": {
+  "level": 13,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.215
+ },
+ "gh-zero4897hn-491f04663e": {
+  "level": 2,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.1283
+ },
+ "gh-zero4897hn-49b26b1f5a": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1367
+ },
+ "gh-zero4897hn-4a99082a66": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.21
+ },
+ "gh-zero4897hn-4b28a6a81f": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1583
+ },
+ "gh-zero4897hn-4b8079ba2d": {
+  "level": 15,
+  "ok": true,
+  "category": "Toán học",
+  "score": 4.225
+ },
+ "gh-zero4897hn-4c7a774957": {
+  "level": 7,
+  "ok": true,
+  "category": "Toán học",
+  "score": 1.18
+ },
+ "gh-zero4897hn-4cff8b465e": {
+  "level": 3,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.0883
+ },
+ "gh-zero4897hn-4d27f28dfb": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.2283
+ },
+ "gh-zero4897hn-4d44f97c74": {
+  "level": 6,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.13
+ },
+ "gh-zero4897hn-4dc0f1251b": {
+  "level": 7,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.1433
+ },
+ "gh-zero4897hn-4e515afc48": {
+  "level": 11,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.11
+ },
+ "gh-zero4897hn-4ec6a59427": {
+  "level": 7,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.135
+ },
+ "gh-zero4897hn-4ef3f8bc64": {
+  "level": 9,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.2083
+ },
+ "gh-zero4897hn-4f6fb4970c": {
+  "level": 8,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1367
+ },
+ "gh-zero4897hn-4f802ed0c5": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.0683
+ },
+ "gh-zero4897hn-51a4d2982a": {
+  "level": 6,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1317
+ },
+ "gh-zero4897hn-51eb80d876": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.17
+ },
+ "gh-zero4897hn-52d93f5d69": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.0733
+ },
+ "gh-zero4897hn-5310dabf87": {
+  "level": 8,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.12
+ },
+ "gh-zero4897hn-548861cf88": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.2
+ },
+ "gh-zero4897hn-55274213c8": {
+  "level": 13,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.1867
+ },
+ "gh-zero4897hn-55453ef550": {
+  "level": 7,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.195
+ },
+ "gh-zero4897hn-558f34419f": {
+  "level": 11,
+  "ok": false,
+  "category": "Kiến thức chung",
+  "score": 4.2883
+ },
+ "gh-zero4897hn-55c46dde53": {
+  "level": 13,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.2167
+ },
+ "gh-zero4897hn-56f21f3361": {
+  "level": 10,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 4.195
+ },
+ "gh-zero4897hn-56ff69e5eb": {
+  "level": 15,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.2133
+ },
+ "gh-zero4897hn-58599b2dab": {
+  "level": 14,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 3.1367
+ },
+ "gh-zero4897hn-58765a0fd4": {
+  "level": 2,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.1617
+ },
+ "gh-zero4897hn-5918de3301": {
+  "level": 6,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.11
+ },
+ "gh-zero4897hn-5949e79751": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1417
+ },
+ "gh-zero4897hn-595ecdc7cc": {
+  "level": 11,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 3.21
+ },
+ "gh-zero4897hn-59aab64b44": {
+  "level": 5,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 1.2167
+ },
+ "gh-zero4897hn-5a61df6a80": {
+  "level": 9,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.205
+ },
+ "gh-zero4897hn-5b4f2b4d86": {
+  "level": 11,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.145
+ },
+ "gh-zero4897hn-5b588ff832": {
+  "level": 6,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.1067
+ },
+ "gh-zero4897hn-5b68b645e1": {
+  "level": 14,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 3.1667
+ },
+ "gh-zero4897hn-5bf5aae87b": {
+  "level": 10,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 2.2567
+ },
+ "gh-zero4897hn-5c7a0c8786": {
+  "level": 6,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 2.365
+ },
+ "gh-zero4897hn-5d1893c4ab": {
+  "level": 11,
+  "ok": false,
+  "category": "Văn học",
+  "score": 3.2017
+ },
+ "gh-zero4897hn-5d5e21324a": {
+  "level": 11,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.1667
+ },
+ "gh-zero4897hn-5dd9cc80d6": {
+  "level": 6,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 1.1117
+ },
+ "gh-zero4897hn-5ee67bcf3a": {
+  "level": 11,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.0983
+ },
+ "gh-zero4897hn-5f01e0a6ab": {
+  "level": 1,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 2.2
+ },
+ "gh-zero4897hn-5f28fcbdaa": {
+  "level": 7,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.1367
+ },
+ "gh-zero4897hn-5f70720c78": {
+  "level": 10,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 3.2367
+ },
+ "gh-zero4897hn-5fbd8627b1": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.07
+ },
+ "gh-zero4897hn-5fc6667bdb": {
+  "level": 4,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1233
+ },
+ "gh-zero4897hn-5ff7a2046c": {
+  "level": 6,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 3.2417
+ },
+ "gh-zero4897hn-60765866b0": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1417
+ },
+ "gh-zero4897hn-60e2b194e5": {
+  "level": 6,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 2.1417
+ },
+ "gh-zero4897hn-6137104faa": {
+  "level": 14,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 3.1317
+ },
+ "gh-zero4897hn-61a553f233": {
+  "level": 11,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.2083
+ },
+ "gh-zero4897hn-61a7eebfeb": {
+  "level": 4,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1183
+ },
+ "gh-zero4897hn-61e3c46cf9": {
+  "level": 11,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 2.2017
+ },
+ "gh-zero4897hn-628a342064": {
+  "level": 14,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 3.1767
+ },
+ "gh-zero4897hn-636ef4f0cd": {
+  "level": 11,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.17
+ },
+ "gh-zero4897hn-64e11f4c1e": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1483
+ },
+ "gh-zero4897hn-64eb491c3f": {
+  "level": 6,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.1267
+ },
+ "gh-zero4897hn-64f13078ae": {
+  "level": 6,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 1.23
+ },
+ "gh-zero4897hn-651906f71d": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1417
+ },
+ "gh-zero4897hn-668ed0960b": {
+  "level": 5,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.2017
+ },
+ "gh-zero4897hn-673b09b73e": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.2117
+ },
+ "gh-zero4897hn-67ef3aa512": {
+  "level": 1,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.035
+ },
+ "gh-zero4897hn-68849ce566": {
+  "level": 14,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.1067
+ },
+ "gh-zero4897hn-696cf1485b": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1833
+ },
+ "gh-zero4897hn-6992f27872": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0733
+ },
+ "gh-zero4897hn-6a265683fe": {
+  "level": 7,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1817
+ },
+ "gh-zero4897hn-6aba1055d4": {
+  "level": 4,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.16
+ },
+ "gh-zero4897hn-6ad0c0e73d": {
+  "level": 6,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 1.2833
+ },
+ "gh-zero4897hn-6afd354330": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1267
+ },
+ "gh-zero4897hn-6b68a85f16": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.115
+ },
+ "gh-zero4897hn-6bdeb84182": {
+  "level": 1,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.0983
+ },
+ "gh-zero4897hn-6be3f84505": {
+  "level": 11,
+  "ok": true,
+  "category": "Công nghệ",
+  "score": 1.215
+ },
+ "gh-zero4897hn-6c46203f96": {
+  "level": 1,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.0983
+ },
+ "gh-zero4897hn-6c7e32033f": {
+  "level": 11,
+  "ok": false,
+  "category": "Lịch sử",
+  "score": 3.115
+ },
+ "gh-zero4897hn-6c920fc15e": {
+  "level": 15,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 3.245
+ },
+ "gh-zero4897hn-6df20794bf": {
+  "level": 6,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.1317
+ },
+ "gh-zero4897hn-6eb7bd5963": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0967
+ },
+ "gh-zero4897hn-6fff92ab83": {
+  "level": 6,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 1.0917
+ },
+ "gh-zero4897hn-70056bccf8": {
+  "level": 6,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 0.1067
+ },
+ "gh-zero4897hn-704782456d": {
+  "level": 6,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 3.2317
+ },
+ "gh-zero4897hn-734d3bd900": {
+  "level": 14,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 3.1967
+ },
+ "gh-zero4897hn-73abba281a": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1633
+ },
+ "gh-zero4897hn-74388a569a": {
+  "level": 5,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.1917
+ },
+ "gh-zero4897hn-744eb34f9c": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1717
+ },
+ "gh-zero4897hn-746dfa3891": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 1.16
+ },
+ "gh-zero4897hn-7497101c39": {
+  "level": 2,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.13
+ },
+ "gh-zero4897hn-74cca2e14d": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.1917
+ },
+ "gh-zero4897hn-759312af2b": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.195
+ },
+ "gh-zero4897hn-759ad9fd9f": {
+  "level": 6,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.1183
+ },
+ "gh-zero4897hn-75cd99cab1": {
+  "level": 6,
+  "ok": false,
+  "category": "Kiến thức chung",
+  "score": 4.25
+ },
+ "gh-zero4897hn-75f42e8c55": {
+  "level": 10,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.115
+ },
+ "gh-zero4897hn-75f8b0ae68": {
+  "level": 14,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.1583
+ },
+ "gh-zero4897hn-7642c714c3": {
+  "level": 2,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.1133
+ },
+ "gh-zero4897hn-7659dcf024": {
+  "level": 6,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1
+ },
+ "gh-zero4897hn-76e1f681f9": {
+  "level": 8,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.1467
+ },
+ "gh-zero4897hn-76e6035a49": {
+  "level": 11,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 3.1233
+ },
+ "gh-zero4897hn-77aa175779": {
+  "level": 14,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 3.1733
+ },
+ "gh-zero4897hn-78aaea7fd0": {
+  "level": 11,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 2.2283
+ },
+ "gh-zero4897hn-79ef5fb21e": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1467
+ },
+ "gh-zero4897hn-7a9623268b": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.2083
+ },
+ "gh-zero4897hn-7b11cafccc": {
+  "level": 6,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.1317
+ },
+ "gh-zero4897hn-7b7c7cc407": {
+  "level": 3,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.185
+ },
+ "gh-zero4897hn-7b957f890f": {
+  "level": 4,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.1367
+ },
+ "gh-zero4897hn-7bf82a5b9c": {
+  "level": 11,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 3.1767
+ },
+ "gh-zero4897hn-7d091eadce": {
+  "level": 11,
+  "ok": false,
+  "category": "Văn học",
+  "score": 3.2467
+ },
+ "gh-zero4897hn-7d623681fa": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1183
+ },
+ "gh-zero4897hn-7ddd9da3bf": {
+  "level": 6,
+  "ok": false,
+  "category": "Văn học",
+  "score": 1.2417
+ },
+ "gh-zero4897hn-7de6c94880": {
+  "level": 1,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 0.0833
+ },
+ "gh-zero4897hn-7e0de882d4": {
+  "level": 6,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1167
+ },
+ "gh-zero4897hn-7e72be54a9": {
+  "level": 10,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 3.3067
+ },
+ "gh-zero4897hn-7e85f6cbc1": {
+  "level": 4,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.1517
+ },
+ "gh-zero4897hn-7e8865917b": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1467
+ },
+ "gh-zero4897hn-7e99595541": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.245
+ },
+ "gh-zero4897hn-7edeec5cff": {
+  "level": 5,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.235
+ },
+ "gh-zero4897hn-7eff92dc13": {
+  "level": 8,
+  "ok": true,
+  "category": "Công nghệ",
+  "score": 1.225
+ },
+ "gh-zero4897hn-7f9a7e3434": {
+  "level": 13,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.23
+ },
+ "gh-zero4897hn-7fbab818a0": {
+  "level": 6,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.2333
+ },
+ "gh-zero4897hn-7fbd0ccb07": {
+  "level": 3,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.2433
+ },
+ "gh-zero4897hn-801a493c03": {
+  "level": 5,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.1683
+ },
+ "gh-zero4897hn-8086c2a6be": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.2833
+ },
+ "gh-zero4897hn-819691fae3": {
+  "level": 8,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.0883
+ },
+ "gh-zero4897hn-8197af8371": {
+  "level": 6,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 1.2167
+ },
+ "gh-zero4897hn-81c33251ca": {
+  "level": 12,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.2417
+ },
+ "gh-zero4897hn-8223ed03e0": {
+  "level": 6,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 3.1717
+ },
+ "gh-zero4897hn-82647f64e8": {
+  "level": 8,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 2.1117
+ },
+ "gh-zero4897hn-8289ac460c": {
+  "level": 9,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.2083
+ },
+ "gh-zero4897hn-82a9a1395d": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1217
+ },
+ "gh-zero4897hn-83eaaf42b9": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.2417
+ },
+ "gh-zero4897hn-8409f4597b": {
+  "level": 10,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 3.1583
+ },
+ "gh-zero4897hn-8416349791": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.2117
+ },
+ "gh-zero4897hn-849bfe4caf": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 2.1267
+ },
+ "gh-zero4897hn-849dd1bf53": {
+  "level": 2,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.145
+ },
+ "gh-zero4897hn-84dc1c3b7a": {
+  "level": 1,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.095
+ },
+ "gh-zero4897hn-84e8f4c5f7": {
+  "level": 11,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.15
+ },
+ "gh-zero4897hn-84ffbedb69": {
+  "level": 4,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.12
+ },
+ "gh-zero4897hn-852380dc37": {
+  "level": 6,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 3.3117
+ },
+ "gh-zero4897hn-857dd870f1": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.225
+ },
+ "gh-zero4897hn-858c3f62a3": {
+  "level": 6,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 2.205
+ },
+ "gh-zero4897hn-86630fbb9d": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.145
+ },
+ "gh-zero4897hn-87b37ac2ff": {
+  "level": 6,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 3.1283
+ },
+ "gh-zero4897hn-87b5b44e40": {
+  "level": 7,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1433
+ },
+ "gh-zero4897hn-8804297c2c": {
+  "level": 8,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1083
+ },
+ "gh-zero4897hn-88558c7124": {
+  "level": 8,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1483
+ },
+ "gh-zero4897hn-887388196e": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1317
+ },
+ "gh-zero4897hn-8a4ecb436e": {
+  "level": 3,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.09
+ },
+ "gh-zero4897hn-8acfab5618": {
+  "level": 6,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 0.205
+ },
+ "gh-zero4897hn-8add64d469": {
+  "level": 9,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.215
+ },
+ "gh-zero4897hn-8ae4244287": {
+  "level": 9,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.24
+ },
+ "gh-zero4897hn-8af74e9ee6": {
+  "level": 11,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.1667
+ },
+ "gh-zero4897hn-8bb738794e": {
+  "level": 6,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 3.2383
+ },
+ "gh-zero4897hn-8beb6c5eb4": {
+  "level": 14,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.1533
+ },
+ "gh-zero4897hn-8c50dcc216": {
+  "level": 7,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1633
+ },
+ "gh-zero4897hn-8c66e15690": {
+  "level": 4,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.1183
+ },
+ "gh-zero4897hn-8c6a779586": {
+  "level": 5,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.1833
+ },
+ "gh-zero4897hn-8cb99a567e": {
+  "level": 6,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 3.15
+ },
+ "gh-zero4897hn-8ccc5931b8": {
+  "level": 9,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.1867
+ },
+ "gh-zero4897hn-8d108b6a48": {
+  "level": 9,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.2333
+ },
+ "gh-zero4897hn-8d1669e582": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.155
+ },
+ "gh-zero4897hn-8da1b095a1": {
+  "level": 15,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 3.215
+ },
+ "gh-zero4897hn-8dcc11b421": {
+  "level": 6,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.2
+ },
+ "gh-zero4897hn-8de9901f0c": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1583
+ },
+ "gh-zero4897hn-8ebf3349e7": {
+  "level": 5,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.1467
+ },
+ "gh-zero4897hn-8f1a2db693": {
+  "level": 12,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 2.17
+ },
+ "gh-zero4897hn-8fa659cbee": {
+  "level": 6,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1033
+ },
+ "gh-zero4897hn-8fc0d5ee74": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.1467
+ },
+ "gh-zero4897hn-8fdbb1168a": {
+  "level": 12,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 2.165
+ },
+ "gh-zero4897hn-9008038069": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1383
+ },
+ "gh-zero4897hn-900e4aed34": {
+  "level": 13,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 2.175
+ },
+ "gh-zero4897hn-906f6ad9ec": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 4.1833
+ },
+ "gh-zero4897hn-90b23ade1f": {
+  "level": 10,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 3.1083
+ },
+ "gh-zero4897hn-91aa2b1644": {
+  "level": 3,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 0.2017
+ },
+ "gh-zero4897hn-91d3001227": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.185
+ },
+ "gh-zero4897hn-9200288942": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.1767
+ },
+ "gh-zero4897hn-9214f03029": {
+  "level": 11,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 3.2183
+ },
+ "gh-zero4897hn-92187a589b": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.0683
+ },
+ "gh-zero4897hn-92464b6739": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.2317
+ },
+ "gh-zero4897hn-9265fc521e": {
+  "level": 3,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.06
+ },
+ "gh-zero4897hn-92808c96a4": {
+  "level": 11,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.2217
+ },
+ "gh-zero4897hn-92d6941a55": {
+  "level": 3,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.2083
+ },
+ "gh-zero4897hn-92eb029119": {
+  "level": 11,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.16
+ },
+ "gh-zero4897hn-92fd5bd614": {
+  "level": 6,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 0.1533
+ },
+ "gh-zero4897hn-9342cb1e19": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.165
+ },
+ "gh-zero4897hn-9380f1c5c1": {
+  "level": 6,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 3.1667
+ },
+ "gh-zero4897hn-944cbbb36d": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.0633
+ },
+ "gh-zero4897hn-945164bf2c": {
+  "level": 2,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.155
+ },
+ "gh-zero4897hn-94e0ba2523": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.075
+ },
+ "gh-zero4897hn-9581110208": {
+  "level": 10,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 3.28
+ },
+ "gh-zero4897hn-9589c197f5": {
+  "level": 11,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1517
+ },
+ "gh-zero4897hn-959c721c38": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.14
+ },
+ "gh-zero4897hn-95c3a0a3dd": {
+  "level": 7,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.135
+ },
+ "gh-zero4897hn-96754ddab5": {
+  "level": 6,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 3.1583
+ },
+ "gh-zero4897hn-96d5639696": {
+  "level": 15,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.2217
+ },
+ "gh-zero4897hn-96d645e851": {
+  "level": 1,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 0.1017
+ },
+ "gh-zero4897hn-96ff447b90": {
+  "level": 12,
+  "ok": true,
+  "category": "Toán học",
+  "score": 2.0867
+ },
+ "gh-zero4897hn-9708ee9852": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 1.1433
+ },
+ "gh-zero4897hn-972710d511": {
+  "level": 7,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.1417
+ },
+ "gh-zero4897hn-97782365d9": {
+  "level": 6,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 2.07
+ },
+ "gh-zero4897hn-977d2d6909": {
+  "level": 4,
+  "ok": true,
+  "category": "Toán học",
+  "score": 1.1167
+ },
+ "gh-zero4897hn-9863da709c": {
+  "level": 12,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.0817
+ },
+ "gh-zero4897hn-989d3c2ad0": {
+  "level": 1,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.08
+ },
+ "gh-zero4897hn-98f1936831": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1483
+ },
+ "gh-zero4897hn-98f4aae4f1": {
+  "level": 5,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.2667
+ },
+ "gh-zero4897hn-98f9302e19": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.17
+ },
+ "gh-zero4897hn-99097438a8": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.1467
+ },
+ "gh-zero4897hn-991f32bcd7": {
+  "level": 2,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.135
+ },
+ "gh-zero4897hn-994e244288": {
+  "level": 9,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 2.1583
+ },
+ "gh-zero4897hn-994e416831": {
+  "level": 3,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1883
+ },
+ "gh-zero4897hn-9996fb51c1": {
+  "level": 7,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.1517
+ },
+ "gh-zero4897hn-9ad6a36c04": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1367
+ },
+ "gh-zero4897hn-9b45164d21": {
+  "level": 11,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.1983
+ },
+ "gh-zero4897hn-9be83da8c8": {
+  "level": 7,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1733
+ },
+ "gh-zero4897hn-9bf5638a47": {
+  "level": 14,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 3.1083
+ },
+ "gh-zero4897hn-9c1319bce4": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.165
+ },
+ "gh-zero4897hn-9c7d2489f2": {
+  "level": 10,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 2.35
+ },
+ "gh-zero4897hn-9c9d56f1dd": {
+  "level": 1,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.075
+ },
+ "gh-zero4897hn-9e22e29d18": {
+  "level": 7,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.1567
+ },
+ "gh-zero4897hn-9e23c60af3": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1367
+ },
+ "gh-zero4897hn-9e729f2047": {
+  "level": 1,
+  "ok": false,
+  "category": "Ngôn ngữ",
+  "score": 1.095
+ },
+ "gh-zero4897hn-9fbb71bad5": {
+  "level": 5,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.115
+ },
+ "gh-zero4897hn-a166075013": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1183
+ },
+ "gh-zero4897hn-a237174c78": {
+  "level": 8,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 1.2167
+ },
+ "gh-zero4897hn-a2bac1ad9d": {
+  "level": 11,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.195
+ },
+ "gh-zero4897hn-a2f512eed0": {
+  "level": 6,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.09
+ },
+ "gh-zero4897hn-a3316432f3": {
+  "level": 7,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.1717
+ },
+ "gh-zero4897hn-a40e331667": {
+  "level": 11,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1467
+ },
+ "gh-zero4897hn-a444870f81": {
+  "level": 1,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 3.19
+ },
+ "gh-zero4897hn-a44a9e73a1": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1517
+ },
+ "gh-zero4897hn-a4a78586c9": {
+  "level": 6,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.25
+ },
+ "gh-zero4897hn-a4bdb073de": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1067
+ },
+ "gh-zero4897hn-a4ff077fdf": {
+  "level": 14,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 3.145
+ },
+ "gh-zero4897hn-a59830b69e": {
+  "level": 10,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 3.21
+ },
+ "gh-zero4897hn-a5ca612272": {
+  "level": 2,
+  "ok": true,
+  "category": "Công nghệ",
+  "score": 0.1533
+ },
+ "gh-zero4897hn-a5ff04e957": {
+  "level": 9,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.185
+ },
+ "gh-zero4897hn-a659ad63ea": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.28
+ },
+ "gh-zero4897hn-a65a13ba73": {
+  "level": 11,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 2.1983
+ },
+ "gh-zero4897hn-a65dee4224": {
+  "level": 3,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1017
+ },
+ "gh-zero4897hn-a728c78a7c": {
+  "level": 11,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.175
+ },
+ "gh-zero4897hn-a88b86e6e0": {
+  "level": 15,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.2333
+ },
+ "gh-zero4897hn-a9379e993f": {
+  "level": 7,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.165
+ },
+ "gh-zero4897hn-a9d4cca53f": {
+  "level": 7,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.1383
+ },
+ "gh-zero4897hn-aa46db9c0c": {
+  "level": 12,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 2.1433
+ },
+ "gh-zero4897hn-ab3b14cce6": {
+  "level": 12,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.1533
+ },
+ "gh-zero4897hn-ac017b5a29": {
+  "level": 6,
+  "ok": false,
+  "category": "Ngôn ngữ",
+  "score": 3.205
+ },
+ "gh-zero4897hn-ad4fc2be31": {
+  "level": 10,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 3.255
+ },
+ "gh-zero4897hn-ad9a974bdd": {
+  "level": 6,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 1.1183
+ },
+ "gh-zero4897hn-adc76a0880": {
+  "level": 7,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.1733
+ },
+ "gh-zero4897hn-ae0805cde6": {
+  "level": 6,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 3.2217
+ },
+ "gh-zero4897hn-aff3acd8e6": {
+  "level": 6,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 1.195
+ },
+ "gh-zero4897hn-affa060c29": {
+  "level": 2,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.1233
+ },
+ "gh-zero4897hn-b0b1dfe78a": {
+  "level": 6,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.0967
+ },
+ "gh-zero4897hn-b0f32f2e74": {
+  "level": 10,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.215
+ },
+ "gh-zero4897hn-b0f3e89e41": {
+  "level": 11,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.135
+ },
+ "gh-zero4897hn-b13b36da0a": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.105
+ },
+ "gh-zero4897hn-b14b20b8a8": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.2283
+ },
+ "gh-zero4897hn-b1826c036c": {
+  "level": 10,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 3.16
+ },
+ "gh-zero4897hn-b2000e9364": {
+  "level": 1,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 1.08
+ },
+ "gh-zero4897hn-b2c4ef0c14": {
+  "level": 13,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.19
+ },
+ "gh-zero4897hn-b37511aadc": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.3133
+ },
+ "gh-zero4897hn-b38d4cd86c": {
+  "level": 4,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 1.1483
+ },
+ "gh-zero4897hn-b3b66e693e": {
+  "level": 13,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.2083
+ },
+ "gh-zero4897hn-b3ecc2f06f": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.135
+ },
+ "gh-zero4897hn-b460bdc8ed": {
+  "level": 12,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 2.1383
+ },
+ "gh-zero4897hn-b4a0578d1b": {
+  "level": 12,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.2633
+ },
+ "gh-zero4897hn-b4addd4b68": {
+  "level": 3,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.075
+ },
+ "gh-zero4897hn-b5281fd15a": {
+  "level": 5,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.18
+ },
+ "gh-zero4897hn-b56d373099": {
+  "level": 1,
+  "ok": false,
+  "category": "Ngôn ngữ",
+  "score": 1.1417
+ },
+ "gh-zero4897hn-b5d86f754e": {
+  "level": 2,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 0.1133
+ },
+ "gh-zero4897hn-b63e6692b4": {
+  "level": 6,
+  "ok": false,
+  "category": "Lịch sử",
+  "score": 3.1967
+ },
+ "gh-zero4897hn-b67f112c0b": {
+  "level": 10,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.145
+ },
+ "gh-zero4897hn-b6f13817c5": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1017
+ },
+ "gh-zero4897hn-b7232e7ae8": {
+  "level": 4,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.125
+ },
+ "gh-zero4897hn-b7ccf2211b": {
+  "level": 11,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.175
+ },
+ "gh-zero4897hn-b88c88d652": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1733
+ },
+ "gh-zero4897hn-b90e465b1a": {
+  "level": 13,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 2.2233
+ },
+ "gh-zero4897hn-b96cb2d21d": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0883
+ },
+ "gh-zero4897hn-bac925770d": {
+  "level": 7,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.1917
+ },
+ "gh-zero4897hn-bad9d9cfb6": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1367
+ },
+ "gh-zero4897hn-bbf89c8144": {
+  "level": 6,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 3.1533
+ },
+ "gh-zero4897hn-bc1d062428": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1467
+ },
+ "gh-zero4897hn-bc6fbd5786": {
+  "level": 6,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.1033
+ },
+ "gh-zero4897hn-bcd75618bd": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.23
+ },
+ "gh-zero4897hn-bcefa52a0c": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1467
+ },
+ "gh-zero4897hn-c009b3d0c4": {
+  "level": 14,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 3.1867
+ },
+ "gh-zero4897hn-c04438a3d2": {
+  "level": 6,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1167
+ },
+ "gh-zero4897hn-c06d541d13": {
+  "level": 8,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 1.2067
+ },
+ "gh-zero4897hn-c16239ee04": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1117
+ },
+ "gh-zero4897hn-c163cdf1aa": {
+  "level": 3,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.1733
+ },
+ "gh-zero4897hn-c1bc3c5173": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.2367
+ },
+ "gh-zero4897hn-c35a9bacc5": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.2867
+ },
+ "gh-zero4897hn-c39ad46c20": {
+  "level": 7,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.1867
+ },
+ "gh-zero4897hn-c3a4b3727b": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1533
+ },
+ "gh-zero4897hn-c3a5eaf5c2": {
+  "level": 2,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.12
+ },
+ "gh-zero4897hn-c4564ed088": {
+  "level": 8,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.2017
+ },
+ "gh-zero4897hn-c4c4b2056d": {
+  "level": 11,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.2283
+ },
+ "gh-zero4897hn-c524783866": {
+  "level": 15,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.205
+ },
+ "gh-zero4897hn-c56cdd8ca3": {
+  "level": 15,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.4133
+ },
+ "gh-zero4897hn-c60f60892b": {
+  "level": 10,
+  "ok": true,
+  "category": "Công nghệ",
+  "score": 3.1417
+ },
+ "gh-zero4897hn-c65f66b086": {
+  "level": 11,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 3.1817
+ },
+ "gh-zero4897hn-c67db5f55e": {
+  "level": 6,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 2.1633
+ },
+ "gh-zero4897hn-c68ae0d661": {
+  "level": 7,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.17
+ },
+ "gh-zero4897hn-c781474c61": {
+  "level": 7,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.16
+ },
+ "gh-zero4897hn-c82ffb73f4": {
+  "level": 6,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.12
+ },
+ "gh-zero4897hn-c881e2aca4": {
+  "level": 6,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.09
+ },
+ "gh-zero4897hn-c8cd1eaab5": {
+  "level": 6,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 2.24
+ },
+ "gh-zero4897hn-c8f906477a": {
+  "level": 11,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 0.1283
+ },
+ "gh-zero4897hn-c91ebc2a01": {
+  "level": 6,
+  "ok": false,
+  "category": "Lịch sử",
+  "score": 1.155
+ },
+ "gh-zero4897hn-c93b09bfd2": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.21
+ },
+ "gh-zero4897hn-c968a2e556": {
+  "level": 1,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.095
+ },
+ "gh-zero4897hn-c9a74ec4b3": {
+  "level": 10,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 2.3567
+ },
+ "gh-zero4897hn-cadee20f6a": {
+  "level": 6,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 3.18
+ },
+ "gh-zero4897hn-cb2fa7e672": {
+  "level": 12,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.2433
+ },
+ "gh-zero4897hn-cbc99c478f": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.2233
+ },
+ "gh-zero4897hn-cbd11ef792": {
+  "level": 14,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 3.1583
+ },
+ "gh-zero4897hn-cc0ea90983": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.1067
+ },
+ "gh-zero4897hn-cccef83353": {
+  "level": 6,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.0917
+ },
+ "gh-zero4897hn-ccf84376b7": {
+  "level": 13,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.18
+ },
+ "gh-zero4897hn-cd285ee1ac": {
+  "level": 11,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 3.1417
+ },
+ "gh-zero4897hn-cd710cd724": {
+  "level": 1,
+  "ok": false,
+  "category": "Ngôn ngữ",
+  "score": 1.1017
+ },
+ "gh-zero4897hn-cd7404c3be": {
+  "level": 9,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1567
+ },
+ "gh-zero4897hn-ce94c7e577": {
+  "level": 13,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1867
+ },
+ "gh-zero4897hn-cfa51591d1": {
+  "level": 14,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.1567
+ },
+ "gh-zero4897hn-d096efae57": {
+  "level": 11,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 4.23
+ },
+ "gh-zero4897hn-d0b2367cd1": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.1583
+ },
+ "gh-zero4897hn-d13bc10f45": {
+  "level": 9,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.15
+ },
+ "gh-zero4897hn-d17fcf236c": {
+  "level": 11,
+  "ok": false,
+  "category": "Kiến thức chung",
+  "score": 3.3067
+ },
+ "gh-zero4897hn-d1a17a8d2d": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.195
+ },
+ "gh-zero4897hn-d1b8ff3835": {
+  "level": 11,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.1817
+ },
+ "gh-zero4897hn-d1dbc8750f": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1617
+ },
+ "gh-zero4897hn-d22b7fccfd": {
+  "level": 8,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1017
+ },
+ "gh-zero4897hn-d3b5572d06": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.065
+ },
+ "gh-zero4897hn-d3fa249500": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1467
+ },
+ "gh-zero4897hn-d569470b85": {
+  "level": 10,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.1217
+ },
+ "gh-zero4897hn-d5822dec1e": {
+  "level": 9,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.175
+ },
+ "gh-zero4897hn-d651a5e56a": {
+  "level": 6,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.2533
+ },
+ "gh-zero4897hn-d684cef8a6": {
+  "level": 6,
+  "ok": false,
+  "category": "Công nghệ",
+  "score": 0.175
+ },
+ "gh-zero4897hn-d688aacd66": {
+  "level": 3,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.09
+ },
+ "gh-zero4897hn-d6aac8d823": {
+  "level": 4,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 1.1567
+ },
+ "gh-zero4897hn-d6bb1d209a": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.28
+ },
+ "gh-zero4897hn-d7005851d0": {
+  "level": 6,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.095
+ },
+ "gh-zero4897hn-d7ee3caabf": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.2733
+ },
+ "gh-zero4897hn-d85db65167": {
+  "level": 7,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.195
+ },
+ "gh-zero4897hn-d91f3ac8fd": {
+  "level": 9,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 2.2367
+ },
+ "gh-zero4897hn-d9323010ee": {
+  "level": 6,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.125
+ },
+ "gh-zero4897hn-dac47c7b6f": {
+  "level": 12,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.3317
+ },
+ "gh-zero4897hn-db53663482": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.2083
+ },
+ "gh-zero4897hn-db7ad0dccf": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.1783
+ },
+ "gh-zero4897hn-dbd158c8fc": {
+  "level": 10,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 3.2367
+ },
+ "gh-zero4897hn-dc153ce07f": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.155
+ },
+ "gh-zero4897hn-dc15f50b59": {
+  "level": 11,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 1.1967
+ },
+ "gh-zero4897hn-dc1c91cf12": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.105
+ },
+ "gh-zero4897hn-dc22d93be2": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.125
+ },
+ "gh-zero4897hn-dc29fc2ec1": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.47
+ },
+ "gh-zero4897hn-dc4f4e80c5": {
+  "level": 5,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.255
+ },
+ "gh-zero4897hn-dc823599dd": {
+  "level": 12,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.17
+ },
+ "gh-zero4897hn-dd067d4fe8": {
+  "level": 11,
+  "ok": false,
+  "category": "Kiến thức chung",
+  "score": 3.24
+ },
+ "gh-zero4897hn-ddc6eac44b": {
+  "level": 6,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1267
+ },
+ "gh-zero4897hn-ddf7c642a2": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.145
+ },
+ "gh-zero4897hn-de6e61b5f6": {
+  "level": 14,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 3.1533
+ },
+ "gh-zero4897hn-dee78393c2": {
+  "level": 9,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1583
+ },
+ "gh-zero4897hn-df09cb112a": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.0883
+ },
+ "gh-zero4897hn-dff0ad554b": {
+  "level": 6,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 1.3733
+ },
+ "gh-zero4897hn-e01a17dabd": {
+  "level": 6,
+  "ok": false,
+  "category": "Kiến thức chung",
+  "score": 0.1467
+ },
+ "gh-zero4897hn-e0408d0075": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1667
+ },
+ "gh-zero4897hn-e0ce239b8c": {
+  "level": 3,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.0667
+ },
+ "gh-zero4897hn-e0df205cde": {
+  "level": 3,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 0.2117
+ },
+ "gh-zero4897hn-e1d3bae854": {
+  "level": 3,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.2633
+ },
+ "gh-zero4897hn-e1e62d1677": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.14
+ },
+ "gh-zero4897hn-e33b192a7b": {
+  "level": 10,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 3.1917
+ },
+ "gh-zero4897hn-e3c69b1519": {
+  "level": 12,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1317
+ },
+ "gh-zero4897hn-e3f80a5206": {
+  "level": 12,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.145
+ },
+ "gh-zero4897hn-e430438994": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.2133
+ },
+ "gh-zero4897hn-e434c639d0": {
+  "level": 6,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 2.17
+ },
+ "gh-zero4897hn-e44dc4d962": {
+  "level": 1,
+  "ok": true,
+  "category": "Công nghệ",
+  "score": 0.0817
+ },
+ "gh-zero4897hn-e515d5465b": {
+  "level": 11,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1383
+ },
+ "gh-zero4897hn-e52664fcc7": {
+  "level": 14,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 3.155
+ },
+ "gh-zero4897hn-e5cc55d0c8": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.085
+ },
+ "gh-zero4897hn-e608883268": {
+  "level": 6,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.1883
+ },
+ "gh-zero4897hn-e6b078267a": {
+  "level": 6,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 2.1517
+ },
+ "gh-zero4897hn-e6dde7a9cf": {
+  "level": 6,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 1.14
+ },
+ "gh-zero4897hn-e6f67bc8e7": {
+  "level": 2,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 0.11
+ },
+ "gh-zero4897hn-e735056e24": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.14
+ },
+ "gh-zero4897hn-e770602033": {
+  "level": 13,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1817
+ },
+ "gh-zero4897hn-e7ab518492": {
+  "level": 1,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.095
+ },
+ "gh-zero4897hn-e7dd4c911d": {
+  "level": 9,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.1583
+ },
+ "gh-zero4897hn-e8193a113f": {
+  "level": 6,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 3.1733
+ },
+ "gh-zero4897hn-e8a0ffa061": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1983
+ },
+ "gh-zero4897hn-e8cdf1c341": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.085
+ },
+ "gh-zero4897hn-e9235ea7f6": {
+  "level": 6,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.2183
+ },
+ "gh-zero4897hn-e9b104a787": {
+  "level": 7,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.1533
+ },
+ "gh-zero4897hn-ea4ce5357f": {
+  "level": 9,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 2.16
+ },
+ "gh-zero4897hn-ea5c6db437": {
+  "level": 6,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1183
+ },
+ "gh-zero4897hn-eaabde68af": {
+  "level": 10,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 3.2667
+ },
+ "gh-zero4897hn-eb4d60be96": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.2583
+ },
+ "gh-zero4897hn-eb54fa6f87": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.0733
+ },
+ "gh-zero4897hn-eb61751ecc": {
+  "level": 13,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.21
+ },
+ "gh-zero4897hn-eb7e25173a": {
+  "level": 11,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.2217
+ },
+ "gh-zero4897hn-ec2bf81b5f": {
+  "level": 5,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.1783
+ },
+ "gh-zero4897hn-eca6f6ea28": {
+  "level": 6,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.13
+ },
+ "gh-zero4897hn-ed05a7682e": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.1767
+ },
+ "gh-zero4897hn-ed80274de4": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.1017
+ },
+ "gh-zero4897hn-edb898d634": {
+  "level": 9,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 2.17
+ },
+ "gh-zero4897hn-ee4f1e0723": {
+  "level": 13,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 2.22
+ },
+ "gh-zero4897hn-ee57a5f542": {
+  "level": 12,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 2.1367
+ },
+ "gh-zero4897hn-ee630e4963": {
+  "level": 6,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 1.1367
+ },
+ "gh-zero4897hn-ef219194c9": {
+  "level": 3,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 0.1783
+ },
+ "gh-zero4897hn-ef21ca2eab": {
+  "level": 11,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.155
+ },
+ "gh-zero4897hn-ef5173cd46": {
+  "level": 3,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.06
+ },
+ "gh-zero4897hn-efad3edb5a": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.21
+ },
+ "gh-zero4897hn-efcbc3638e": {
+  "level": 10,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.1567
+ },
+ "gh-zero4897hn-f00b86b2d4": {
+  "level": 8,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.2233
+ },
+ "gh-zero4897hn-f020055899": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1467
+ },
+ "gh-zero4897hn-f04d680aff": {
+  "level": 11,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.2433
+ },
+ "gh-zero4897hn-f05bedcd73": {
+  "level": 2,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 0.1117
+ },
+ "gh-zero4897hn-f0e6cd849b": {
+  "level": 6,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 0.1367
+ },
+ "gh-zero4897hn-f12cc86dc6": {
+  "level": 1,
+  "ok": false,
+  "category": "Kiến thức chung",
+  "score": 2.0633
+ },
+ "gh-zero4897hn-f184961007": {
+  "level": 10,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.25
+ },
+ "gh-zero4897hn-f260ad0d8d": {
+  "level": 6,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1067
+ },
+ "gh-zero4897hn-f3b0e2f5af": {
+  "level": 9,
+  "ok": true,
+  "category": "Công nghệ",
+  "score": 2.1517
+ },
+ "gh-zero4897hn-f3d4ed8336": {
+  "level": 6,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.1183
+ },
+ "gh-zero4897hn-f50d73c4c7": {
+  "level": 5,
+  "ok": true,
+  "category": "Công nghệ",
+  "score": 1.19
+ },
+ "gh-zero4897hn-f5118d086e": {
+  "level": 11,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 4.16
+ },
+ "gh-zero4897hn-f65563dc2a": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.2217
+ },
+ "gh-zero4897hn-f70c5a547f": {
+  "level": 11,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.11
+ },
+ "gh-zero4897hn-f7b24d08ab": {
+  "level": 6,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.13
+ },
+ "gh-zero4897hn-f7b5a2d7fb": {
+  "level": 4,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1267
+ },
+ "gh-zero4897hn-f7faea7383": {
+  "level": 6,
+  "ok": false,
+  "category": "Văn học",
+  "score": 3.2933
+ },
+ "gh-zero4897hn-f849ce392e": {
+  "level": 6,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.1333
+ },
+ "gh-zero4897hn-f86361689c": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.12
+ },
+ "gh-zero4897hn-f88605a611": {
+  "level": 8,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.275
+ },
+ "gh-zero4897hn-f8b938eca7": {
+  "level": 10,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.3083
+ },
+ "gh-zero4897hn-f917f9fb02": {
+  "level": 4,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1333
+ },
+ "gh-zero4897hn-f9a7b82a78": {
+  "level": 7,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1533
+ },
+ "gh-zero4897hn-f9f8119007": {
+  "level": 7,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.1633
+ },
+ "gh-zero4897hn-fa455991f2": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.19
+ },
+ "gh-zero4897hn-fbc9decb0b": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1917
+ },
+ "gh-zero4897hn-fc5a8e23ed": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.2033
+ },
+ "gh-zero4897hn-fcd7c577f9": {
+  "level": 13,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.2633
+ },
+ "gh-zero4897hn-fcf7c0a05c": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.095
+ },
+ "gh-zero4897hn-fde8a48362": {
+  "level": 13,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.2333
+ },
+ "gh-zero4897hn-fe04b745bc": {
+  "level": 11,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 1.2533
+ },
+ "gh-zero4897hn-fe45c86c33": {
+  "level": 11,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.2417
+ },
+ "gh-zero4897hn-fea00e1893": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1817
+ },
+ "gh-zero4897hn-fee9068d0f": {
+  "level": 1,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 1.0583
+ },
+ "gh-zero4897hn-fef52cb404": {
+  "level": 11,
+  "ok": false,
+  "category": "Văn học",
+  "score": 3.1917
+ },
+ "gh-zero4897hn-ff36b184ca": {
+  "level": 1,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.09
+ },
+ "hf-thaotac870-005be1bef8": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1183
+ },
+ "hf-thaotac870-007084c199": {
+  "level": 8,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.1333
+ },
+ "hf-thaotac870-00d302acaa": {
+  "level": 7,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1233
+ },
+ "hf-thaotac870-00e0c1fcc6": {
+  "level": 7,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.1233
+ },
+ "hf-thaotac870-016f433dff": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.1317
+ },
+ "hf-thaotac870-01a6d01509": {
+  "level": 12,
+  "ok": true,
+  "category": "Toán học",
+  "score": 2.1633
+ },
+ "hf-thaotac870-01dcba575a": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.2917
+ },
+ "hf-thaotac870-022ac4ab8c": {
+  "level": 14,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 3.1467
+ },
+ "hf-thaotac870-02c973212a": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.195
+ },
+ "hf-thaotac870-03894c187a": {
+  "level": 3,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 0.115
+ },
+ "hf-thaotac870-03913719d1": {
+  "level": 14,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.1217
+ },
+ "hf-thaotac870-03b7f1a907": {
+  "level": 8,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.1317
+ },
+ "hf-thaotac870-044db0d3bf": {
+  "level": 4,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 0.17
+ },
+ "hf-thaotac870-0464335bd4": {
+  "level": 4,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 0.1583
+ },
+ "hf-thaotac870-0478b6fd8d": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.195
+ },
+ "hf-thaotac870-049e3a6cdb": {
+  "level": 1,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 1.1383
+ },
+ "hf-thaotac870-04af5615db": {
+  "level": 3,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.1117
+ },
+ "hf-thaotac870-05074cb61c": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1383
+ },
+ "hf-thaotac870-05e7802cc0": {
+  "level": 6,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.1067
+ },
+ "hf-thaotac870-06049b0217": {
+  "level": 14,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 3.1667
+ },
+ "hf-thaotac870-06a1d72f33": {
+  "level": 8,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.14
+ },
+ "hf-thaotac870-06ae376cae": {
+  "level": 6,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.0917
+ },
+ "hf-thaotac870-06ed01086c": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.2067
+ },
+ "hf-thaotac870-0752efb040": {
+  "level": 9,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.1633
+ },
+ "hf-thaotac870-07ce3b48d6": {
+  "level": 13,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.21
+ },
+ "hf-thaotac870-08d08793c6": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.2783
+ },
+ "hf-thaotac870-09099d96a7": {
+  "level": 11,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 2.12
+ },
+ "hf-thaotac870-094bc5039c": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1483
+ },
+ "hf-thaotac870-0a0706809f": {
+  "level": 3,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.115
+ },
+ "hf-thaotac870-0a13cbb29a": {
+  "level": 7,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.125
+ },
+ "hf-thaotac870-0aad727293": {
+  "level": 4,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1417
+ },
+ "hf-thaotac870-0b239cdc76": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.0917
+ },
+ "hf-thaotac870-0b5373ccdd": {
+  "level": 15,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.2067
+ },
+ "hf-thaotac870-0bc6f00f95": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.13
+ },
+ "hf-thaotac870-0bda3a41fd": {
+  "level": 1,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 0.1283
+ },
+ "hf-thaotac870-0c0d7b5184": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.0917
+ },
+ "hf-thaotac870-0c25fa3c79": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1783
+ },
+ "hf-thaotac870-0c2f9f9bb1": {
+  "level": 12,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1867
+ },
+ "hf-thaotac870-0c4d8df080": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.0783
+ },
+ "hf-thaotac870-0cbe19337b": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.1583
+ },
+ "hf-thaotac870-0cd0bcd802": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.1833
+ },
+ "hf-thaotac870-0cf8c55b9e": {
+  "level": 3,
+  "ok": true,
+  "category": "Toán học",
+  "score": 0.1267
+ },
+ "hf-thaotac870-0d484eab77": {
+  "level": 5,
+  "ok": true,
+  "category": "Toán học",
+  "score": 1.075
+ },
+ "hf-thaotac870-0d6409035d": {
+  "level": 1,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.0683
+ },
+ "hf-thaotac870-0d8a3f3d6b": {
+  "level": 1,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 2.2517
+ },
+ "hf-thaotac870-0de5f25f54": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.1133
+ },
+ "hf-thaotac870-0de6a6d117": {
+  "level": 10,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.2067
+ },
+ "hf-thaotac870-0e50390ddb": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.2183
+ },
+ "hf-thaotac870-0e7a57bcd2": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.15
+ },
+ "hf-thaotac870-0f331f7d15": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1167
+ },
+ "hf-thaotac870-0f6ebecadf": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.1567
+ },
+ "hf-thaotac870-0fd1f58e51": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.065
+ },
+ "hf-thaotac870-0fda2d1d60": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1617
+ },
+ "hf-thaotac870-1008641212": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.175
+ },
+ "hf-thaotac870-11120570d7": {
+  "level": 3,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.1283
+ },
+ "hf-thaotac870-115872b4a9": {
+  "level": 5,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 0.1733
+ },
+ "hf-thaotac870-115da16723": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.1517
+ },
+ "hf-thaotac870-11e5582e0f": {
+  "level": 6,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.105
+ },
+ "hf-thaotac870-123ca2226f": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0817
+ },
+ "hf-thaotac870-12451fe4eb": {
+  "level": 6,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1
+ },
+ "hf-thaotac870-12c8587110": {
+  "level": 13,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.1033
+ },
+ "hf-thaotac870-12f2eb947f": {
+  "level": 13,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.2833
+ },
+ "hf-thaotac870-13375b71e9": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.1917
+ },
+ "hf-thaotac870-133fb49edc": {
+  "level": 1,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 1.0583
+ },
+ "hf-thaotac870-137ce22ae5": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0683
+ },
+ "hf-thaotac870-14015625f5": {
+  "level": 6,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.105
+ },
+ "hf-thaotac870-14270166c6": {
+  "level": 5,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.0633
+ },
+ "hf-thaotac870-1462167c6d": {
+  "level": 8,
+  "ok": true,
+  "category": "Công nghệ",
+  "score": 1.145
+ },
+ "hf-thaotac870-1467260de8": {
+  "level": 1,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.035
+ },
+ "hf-thaotac870-146d6f2d95": {
+  "level": 8,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.15
+ },
+ "hf-thaotac870-1471181fb7": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1567
+ },
+ "hf-thaotac870-15036d6f72": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.2
+ },
+ "hf-thaotac870-15273c51f5": {
+  "level": 1,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.15
+ },
+ "hf-thaotac870-1531dcfb41": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1067
+ },
+ "hf-thaotac870-15806a8555": {
+  "level": 6,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.09
+ },
+ "hf-thaotac870-16ba76a2ab": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0717
+ },
+ "hf-thaotac870-17389cab08": {
+  "level": 6,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.11
+ },
+ "hf-thaotac870-1788eb1850": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1
+ },
+ "hf-thaotac870-17b9de643d": {
+  "level": 15,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.2517
+ },
+ "hf-thaotac870-18119beefe": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.2017
+ },
+ "hf-thaotac870-1864c9d957": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 1.14
+ },
+ "hf-thaotac870-1881d5655e": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.19
+ },
+ "hf-thaotac870-19736c5765": {
+  "level": 4,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1683
+ },
+ "hf-thaotac870-198860b547": {
+  "level": 11,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 2.1533
+ },
+ "hf-thaotac870-19d10af5a5": {
+  "level": 11,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 2.1517
+ },
+ "hf-thaotac870-19f65ef99b": {
+  "level": 9,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.1883
+ },
+ "hf-thaotac870-19fd079371": {
+  "level": 5,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.195
+ },
+ "hf-thaotac870-1aac7e5bae": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.1067
+ },
+ "hf-thaotac870-1aeaa4859e": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.145
+ },
+ "hf-thaotac870-1af07b3c26": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1383
+ },
+ "hf-thaotac870-1b01cf7b09": {
+  "level": 2,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.1083
+ },
+ "hf-thaotac870-1b1d667a4e": {
+  "level": 9,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1917
+ },
+ "hf-thaotac870-1b96b58b88": {
+  "level": 11,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1067
+ },
+ "hf-thaotac870-1bcead6a43": {
+  "level": 13,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.2583
+ },
+ "hf-thaotac870-1c67ef183a": {
+  "level": 10,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.235
+ },
+ "hf-thaotac870-1cbe0018da": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.2
+ },
+ "hf-thaotac870-1cbfeedb53": {
+  "level": 10,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.265
+ },
+ "hf-thaotac870-1ce8755a91": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.16
+ },
+ "hf-thaotac870-1d0ec106e7": {
+  "level": 1,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 1.095
+ },
+ "hf-thaotac870-1d5919364a": {
+  "level": 4,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 0.1433
+ },
+ "hf-thaotac870-1d71fed06b": {
+  "level": 15,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.2167
+ },
+ "hf-thaotac870-1d822a63c0": {
+  "level": 10,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.235
+ },
+ "hf-thaotac870-1daeb74a2d": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1033
+ },
+ "hf-thaotac870-1dc57d161a": {
+  "level": 4,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 0.1517
+ },
+ "hf-thaotac870-1dee97f1e1": {
+  "level": 11,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.1433
+ },
+ "hf-thaotac870-1e35c9b38c": {
+  "level": 12,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.1767
+ },
+ "hf-thaotac870-1e82825f0c": {
+  "level": 3,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1333
+ },
+ "hf-thaotac870-1f24d3f6de": {
+  "level": 15,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 3.205
+ },
+ "hf-thaotac870-1fecdf6a26": {
+  "level": 15,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 3.1917
+ },
+ "hf-thaotac870-1ff375e594": {
+  "level": 14,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 3.1733
+ },
+ "hf-thaotac870-204882953d": {
+  "level": 8,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.1267
+ },
+ "hf-thaotac870-2069e6a072": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1333
+ },
+ "hf-thaotac870-20e861cb3d": {
+  "level": 13,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 2.2617
+ },
+ "hf-thaotac870-20eeff0e2e": {
+  "level": 3,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 0.12
+ },
+ "hf-thaotac870-214e1f6326": {
+  "level": 7,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1233
+ },
+ "hf-thaotac870-219b596f23": {
+  "level": 13,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.2567
+ },
+ "hf-thaotac870-21b70ea415": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1633
+ },
+ "hf-thaotac870-21e2a998b5": {
+  "level": 14,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 3.1183
+ },
+ "hf-thaotac870-220cee5602": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.3117
+ },
+ "hf-thaotac870-2376285a29": {
+  "level": 6,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1033
+ },
+ "hf-thaotac870-2454590b7e": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.0933
+ },
+ "hf-thaotac870-24696cb370": {
+  "level": 9,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.195
+ },
+ "hf-thaotac870-24711e543f": {
+  "level": 15,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 3.2217
+ },
+ "hf-thaotac870-24742a9568": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.275
+ },
+ "hf-thaotac870-2498036372": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.3
+ },
+ "hf-thaotac870-252b4b35a7": {
+  "level": 7,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.115
+ },
+ "hf-thaotac870-25502c3323": {
+  "level": 7,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1183
+ },
+ "hf-thaotac870-2557e2d110": {
+  "level": 15,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 3.2617
+ },
+ "hf-thaotac870-257df8a55c": {
+  "level": 1,
+  "ok": false,
+  "category": "Lịch sử",
+  "score": 3.2133
+ },
+ "hf-thaotac870-265c38c250": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.2033
+ },
+ "hf-thaotac870-265e14ebde": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1617
+ },
+ "hf-thaotac870-266f8eb515": {
+  "level": 8,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.1283
+ },
+ "hf-thaotac870-26711fe869": {
+  "level": 3,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 0.1117
+ },
+ "hf-thaotac870-26b6c78823": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.095
+ },
+ "hf-thaotac870-270bfa9071": {
+  "level": 8,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.1267
+ },
+ "hf-thaotac870-271ae8926b": {
+  "level": 1,
+  "ok": true,
+  "category": "Toán học",
+  "score": 0.0883
+ },
+ "hf-thaotac870-2722cfbab4": {
+  "level": 9,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.155
+ },
+ "hf-thaotac870-2780fc8803": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1083
+ },
+ "hf-thaotac870-283c0caea8": {
+  "level": 7,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.115
+ },
+ "hf-thaotac870-28446255c3": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn học",
+  "score": 3.215
+ },
+ "hf-thaotac870-28d73c3e03": {
+  "level": 14,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 3.12
+ },
+ "hf-thaotac870-28f82d6a84": {
+  "level": 1,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 0.11
+ },
+ "hf-thaotac870-297777ca39": {
+  "level": 11,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.1083
+ },
+ "hf-thaotac870-29930a35e5": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.145
+ },
+ "hf-thaotac870-29abb0f711": {
+  "level": 3,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1117
+ },
+ "hf-thaotac870-29b7c1f11f": {
+  "level": 4,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.1433
+ },
+ "hf-thaotac870-29e754af7c": {
+  "level": 3,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1117
+ },
+ "hf-thaotac870-2a0d9b122b": {
+  "level": 9,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1717
+ },
+ "hf-thaotac870-2b313dd373": {
+  "level": 1,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.0867
+ },
+ "hf-thaotac870-2c28fffd63": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.2267
+ },
+ "hf-thaotac870-2c53bb4771": {
+  "level": 1,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 3.2017
+ },
+ "hf-thaotac870-2c65271386": {
+  "level": 14,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 3.1217
+ },
+ "hf-thaotac870-2cad787928": {
+  "level": 12,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.1667
+ },
+ "hf-thaotac870-2cbbd26ad3": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.125
+ },
+ "hf-thaotac870-2ccec0258e": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.15
+ },
+ "hf-thaotac870-2d1b57a73a": {
+  "level": 3,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.1283
+ },
+ "hf-thaotac870-2e38584b77": {
+  "level": 3,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.125
+ },
+ "hf-thaotac870-2e64dc7716": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.165
+ },
+ "hf-thaotac870-2e71a9c9af": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.08
+ },
+ "hf-thaotac870-2eedcbd1a1": {
+  "level": 7,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1133
+ },
+ "hf-thaotac870-2efadb9d22": {
+  "level": 12,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 2.1867
+ },
+ "hf-thaotac870-2f040bf0ad": {
+  "level": 6,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1
+ },
+ "hf-thaotac870-2f43fb1771": {
+  "level": 11,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.145
+ },
+ "hf-thaotac870-2f6a4c4a18": {
+  "level": 15,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.2633
+ },
+ "hf-thaotac870-2fbd939f41": {
+  "level": 7,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.12
+ },
+ "hf-thaotac870-2fed93b791": {
+  "level": 2,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 0.0967
+ },
+ "hf-thaotac870-2ff25f85af": {
+  "level": 1,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.2933
+ },
+ "hf-thaotac870-3003811570": {
+  "level": 15,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 3.2
+ },
+ "hf-thaotac870-30a957a3af": {
+  "level": 11,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1567
+ },
+ "hf-thaotac870-31270b1751": {
+  "level": 3,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 0.1233
+ },
+ "hf-thaotac870-321aa456c5": {
+  "level": 7,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1117
+ },
+ "hf-thaotac870-3278764953": {
+  "level": 7,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1233
+ },
+ "hf-thaotac870-32e62c1336": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.0933
+ },
+ "hf-thaotac870-32f3e08d97": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1417
+ },
+ "hf-thaotac870-3304795961": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.205
+ },
+ "hf-thaotac870-33597591be": {
+  "level": 1,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 3.1533
+ },
+ "hf-thaotac870-33c418d508": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0683
+ },
+ "hf-thaotac870-347f60b987": {
+  "level": 4,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 0.1567
+ },
+ "hf-thaotac870-3542600b62": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.2017
+ },
+ "hf-thaotac870-35664d94c5": {
+  "level": 3,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.125
+ },
+ "hf-thaotac870-35823e60a2": {
+  "level": 6,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.0983
+ },
+ "hf-thaotac870-35bece30ea": {
+  "level": 4,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 0.145
+ },
+ "hf-thaotac870-362166fdd0": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.1567
+ },
+ "hf-thaotac870-36e48ec425": {
+  "level": 4,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1417
+ },
+ "hf-thaotac870-371c28a6d7": {
+  "level": 1,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 2.2367
+ },
+ "hf-thaotac870-3843632204": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0967
+ },
+ "hf-thaotac870-388e4cbb6c": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.0883
+ },
+ "hf-thaotac870-38de71f409": {
+  "level": 8,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.1433
+ },
+ "hf-thaotac870-39d10f708b": {
+  "level": 10,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.09
+ },
+ "hf-thaotac870-3ab6a1eae1": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.185
+ },
+ "hf-thaotac870-3ab911f9b5": {
+  "level": 6,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.0967
+ },
+ "hf-thaotac870-3b0ca0b610": {
+  "level": 1,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 3.18
+ },
+ "hf-thaotac870-3b69f0bd2a": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn học",
+  "score": 3.3133
+ },
+ "hf-thaotac870-3b9f43c650": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.2
+ },
+ "hf-thaotac870-3c5b450b27": {
+  "level": 3,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 0.1333
+ },
+ "hf-thaotac870-3ca0ded572": {
+  "level": 5,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.08
+ },
+ "hf-thaotac870-3cccf74bf8": {
+  "level": 6,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.1117
+ },
+ "hf-thaotac870-3d4ed16851": {
+  "level": 1,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 0.0917
+ },
+ "hf-thaotac870-3d6c98e84f": {
+  "level": 7,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.1167
+ },
+ "hf-thaotac870-3d84317728": {
+  "level": 4,
+  "ok": true,
+  "category": "Công nghệ",
+  "score": 0.1483
+ },
+ "hf-thaotac870-3e0c3affdd": {
+  "level": 5,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 0.205
+ },
+ "hf-thaotac870-3f776b09a4": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.2133
+ },
+ "hf-thaotac870-3fecb70d58": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.175
+ },
+ "hf-thaotac870-40427c87c8": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1183
+ },
+ "hf-thaotac870-405906dabb": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.14
+ },
+ "hf-thaotac870-405a5778b4": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.175
+ },
+ "hf-thaotac870-411efead84": {
+  "level": 15,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.2217
+ },
+ "hf-thaotac870-412a18777f": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.175
+ },
+ "hf-thaotac870-41abfa5beb": {
+  "level": 14,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 3.1717
+ },
+ "hf-thaotac870-422e51f93b": {
+  "level": 1,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 2.1783
+ },
+ "hf-thaotac870-42f7e4d938": {
+  "level": 9,
+  "ok": true,
+  "category": "Toán học",
+  "score": 1.1533
+ },
+ "hf-thaotac870-43784822b8": {
+  "level": 1,
+  "ok": false,
+  "category": "Ngôn ngữ",
+  "score": 1.0783
+ },
+ "hf-thaotac870-4383c4a230": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.2317
+ },
+ "hf-thaotac870-43aa52439e": {
+  "level": 4,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1417
+ },
+ "hf-thaotac870-44182b1138": {
+  "level": 1,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.2233
+ },
+ "hf-thaotac870-445c08e760": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.175
+ },
+ "hf-thaotac870-44b27a575e": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.1917
+ },
+ "hf-thaotac870-44e8d6f76f": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.1083
+ },
+ "hf-thaotac870-455080f280": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn học",
+  "score": 1.185
+ },
+ "hf-thaotac870-4561fc7e33": {
+  "level": 5,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.0717
+ },
+ "hf-thaotac870-45ddce6769": {
+  "level": 11,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.1067
+ },
+ "hf-thaotac870-45e1f0b97e": {
+  "level": 15,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 3.2067
+ },
+ "hf-thaotac870-472144698f": {
+  "level": 9,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.1717
+ },
+ "hf-thaotac870-478dfdd9aa": {
+  "level": 8,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.1267
+ },
+ "hf-thaotac870-47cf39e1fd": {
+  "level": 5,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.075
+ },
+ "hf-thaotac870-483a6e2c0d": {
+  "level": 7,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.125
+ },
+ "hf-thaotac870-48a704c4da": {
+  "level": 6,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.0967
+ },
+ "hf-thaotac870-48b9418b4a": {
+  "level": 5,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 0.1967
+ },
+ "hf-thaotac870-49d4b7076b": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 1.0617
+ },
+ "hf-thaotac870-4a3b4658a0": {
+  "level": 6,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.11
+ },
+ "hf-thaotac870-4a60914488": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.08
+ },
+ "hf-thaotac870-4b3c0e095f": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.155
+ },
+ "hf-thaotac870-4b558106fa": {
+  "level": 10,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 2.095
+ },
+ "hf-thaotac870-4b8fd5308a": {
+  "level": 1,
+  "ok": true,
+  "category": "Toán học",
+  "score": 0.085
+ },
+ "hf-thaotac870-4c22141b81": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1583
+ },
+ "hf-thaotac870-4c85a6cb84": {
+  "level": 6,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.09
+ },
+ "hf-thaotac870-4cb45de464": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1567
+ },
+ "hf-thaotac870-4cf25c96e8": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn học",
+  "score": 4.1433
+ },
+ "hf-thaotac870-4d0973bff0": {
+  "level": 10,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.2133
+ },
+ "hf-thaotac870-4da7cb0235": {
+  "level": 11,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.1367
+ },
+ "hf-thaotac870-4dc4c3db7f": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.06
+ },
+ "hf-thaotac870-4e2c722e1d": {
+  "level": 5,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.0817
+ },
+ "hf-thaotac870-4e5bdb95a8": {
+  "level": 1,
+  "ok": false,
+  "category": "Ngôn ngữ",
+  "score": 0.145
+ },
+ "hf-thaotac870-4e8f6062df": {
+  "level": 5,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.2167
+ },
+ "hf-thaotac870-4e9fb07fae": {
+  "level": 9,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1633
+ },
+ "hf-thaotac870-4ea4453305": {
+  "level": 10,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.0767
+ },
+ "hf-thaotac870-4ebaddc89c": {
+  "level": 11,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.145
+ },
+ "hf-thaotac870-4ef2dc19df": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.0983
+ },
+ "hf-thaotac870-4ef2eb5671": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn học",
+  "score": 3.2667
+ },
+ "hf-thaotac870-4f2d560fd3": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.115
+ },
+ "hf-thaotac870-4f4ef6b12b": {
+  "level": 13,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 2.2117
+ },
+ "hf-thaotac870-4f6cdbabaa": {
+  "level": 6,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.1117
+ },
+ "hf-thaotac870-4f830d99c1": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.145
+ },
+ "hf-thaotac870-4fffdf979e": {
+  "level": 7,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1233
+ },
+ "hf-thaotac870-5021f37ce8": {
+  "level": 4,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1483
+ },
+ "hf-thaotac870-5026f2de62": {
+  "level": 1,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.1567
+ },
+ "hf-thaotac870-50a6e58948": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.145
+ },
+ "hf-thaotac870-5143bff60b": {
+  "level": 7,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1183
+ },
+ "hf-thaotac870-51c74e8a71": {
+  "level": 13,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 2.245
+ },
+ "hf-thaotac870-51d5650c42": {
+  "level": 6,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.0967
+ },
+ "hf-thaotac870-5261485fba": {
+  "level": 11,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.1517
+ },
+ "hf-thaotac870-526f84a96f": {
+  "level": 13,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.21
+ },
+ "hf-thaotac870-52885d7c9a": {
+  "level": 6,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.09
+ },
+ "hf-thaotac870-52c92d808a": {
+  "level": 13,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.2483
+ },
+ "hf-thaotac870-53325b26da": {
+  "level": 11,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.15
+ },
+ "hf-thaotac870-552ea8fc87": {
+  "level": 11,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 2.1
+ },
+ "hf-thaotac870-55ee1ab765": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.1817
+ },
+ "hf-thaotac870-55f70fb3a4": {
+  "level": 5,
+  "ok": true,
+  "category": "Toán học",
+  "score": 1.0683
+ },
+ "hf-thaotac870-570c4682f6": {
+  "level": 9,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.185
+ },
+ "hf-thaotac870-5764762289": {
+  "level": 13,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 2.2233
+ },
+ "hf-thaotac870-578d664055": {
+  "level": 1,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 2.185
+ },
+ "hf-thaotac870-5914bb4e3a": {
+  "level": 5,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.085
+ },
+ "hf-thaotac870-5a0d3d740a": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1517
+ },
+ "hf-thaotac870-5a16a9b647": {
+  "level": 5,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.0667
+ },
+ "hf-thaotac870-5a2b98e428": {
+  "level": 7,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1233
+ },
+ "hf-thaotac870-5abd78a374": {
+  "level": 4,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1667
+ },
+ "hf-thaotac870-5aec1dd035": {
+  "level": 10,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.215
+ },
+ "hf-thaotac870-5bcb1b3b34": {
+  "level": 1,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 4.2833
+ },
+ "hf-thaotac870-5bf8eb448a": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.1767
+ },
+ "hf-thaotac870-5cabdfce79": {
+  "level": 9,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1633
+ },
+ "hf-thaotac870-5e3433e2e8": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.2767
+ },
+ "hf-thaotac870-5e6f4f3068": {
+  "level": 10,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.2017
+ },
+ "hf-thaotac870-5ea185f7ff": {
+  "level": 11,
+  "ok": true,
+  "category": "Toán học",
+  "score": 2.1167
+ },
+ "hf-thaotac870-5ec4578768": {
+  "level": 14,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.1367
+ },
+ "hf-thaotac870-5ece74be00": {
+  "level": 2,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 0.1
+ },
+ "hf-thaotac870-5f2645431a": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.2317
+ },
+ "hf-thaotac870-5f472c655d": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.105
+ },
+ "hf-thaotac870-5fbbfc688f": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0967
+ },
+ "hf-thaotac870-5fbf6e741a": {
+  "level": 14,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 3.16
+ },
+ "hf-thaotac870-6045dc2105": {
+  "level": 10,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.2633
+ },
+ "hf-thaotac870-608f18a58a": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1017
+ },
+ "hf-thaotac870-609d0156a8": {
+  "level": 1,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 1.1183
+ },
+ "hf-thaotac870-60ca053865": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.1417
+ },
+ "hf-thaotac870-60ec433e25": {
+  "level": 1,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 3.25
+ },
+ "hf-thaotac870-6119750f86": {
+  "level": 1,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 2.1283
+ },
+ "hf-thaotac870-613bdcbcbc": {
+  "level": 8,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1283
+ },
+ "hf-thaotac870-614a951774": {
+  "level": 8,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.145
+ },
+ "hf-thaotac870-616dac6322": {
+  "level": 12,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.195
+ },
+ "hf-thaotac870-61a358c220": {
+  "level": 3,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.115
+ },
+ "hf-thaotac870-61e1068044": {
+  "level": 13,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.2333
+ },
+ "hf-thaotac870-620e927948": {
+  "level": 13,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 2.2217
+ },
+ "hf-thaotac870-62fa9ced39": {
+  "level": 10,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.2067
+ },
+ "hf-thaotac870-63d856d0b8": {
+  "level": 5,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.0783
+ },
+ "hf-thaotac870-640d7024ba": {
+  "level": 1,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 3.2183
+ },
+ "hf-thaotac870-647a5ce986": {
+  "level": 12,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 2.1733
+ },
+ "hf-thaotac870-653c5ba276": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.2433
+ },
+ "hf-thaotac870-653c96cd7e": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1117
+ },
+ "hf-thaotac870-654130e2b6": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn học",
+  "score": 3.0883
+ },
+ "hf-thaotac870-65532ccd05": {
+  "level": 13,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.2217
+ },
+ "hf-thaotac870-66540e9ccb": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.205
+ },
+ "hf-thaotac870-66b9c8e10b": {
+  "level": 1,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 3.27
+ },
+ "hf-thaotac870-6713490b7c": {
+  "level": 5,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1883
+ },
+ "hf-thaotac870-67827ec169": {
+  "level": 14,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 3.1517
+ },
+ "hf-thaotac870-679bfdf84d": {
+  "level": 3,
+  "ok": true,
+  "category": "Toán học",
+  "score": 0.11
+ },
+ "hf-thaotac870-67dde1e2b0": {
+  "level": 4,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1483
+ },
+ "hf-thaotac870-67e0af93d8": {
+  "level": 13,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 3.105
+ },
+ "hf-thaotac870-67fbedbf51": {
+  "level": 2,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.0983
+ },
+ "hf-thaotac870-687201a96f": {
+  "level": 7,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.1217
+ },
+ "hf-thaotac870-6916b4d60c": {
+  "level": 1,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 1.1683
+ },
+ "hf-thaotac870-69b7eecbdb": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.1733
+ },
+ "hf-thaotac870-6a0c888722": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn học",
+  "score": 3.1917
+ },
+ "hf-thaotac870-6a70d6225c": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.2483
+ },
+ "hf-thaotac870-6be9d76e1e": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.1283
+ },
+ "hf-thaotac870-6ce2290bb6": {
+  "level": 1,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 3.2367
+ },
+ "hf-thaotac870-6cf48e30f0": {
+  "level": 7,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1133
+ },
+ "hf-thaotac870-6d15a5a4b1": {
+  "level": 14,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 3.1717
+ },
+ "hf-thaotac870-6d5430937c": {
+  "level": 7,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.1233
+ },
+ "hf-thaotac870-6d575c8e07": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1083
+ },
+ "hf-thaotac870-6e545a3c2b": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.0883
+ },
+ "hf-thaotac870-6eab6142c4": {
+  "level": 8,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.135
+ },
+ "hf-thaotac870-6f408498ae": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1333
+ },
+ "hf-thaotac870-6f562ee735": {
+  "level": 1,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.1667
+ },
+ "hf-thaotac870-703266f06b": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0767
+ },
+ "hf-thaotac870-7110e6a0d4": {
+  "level": 1,
+  "ok": false,
+  "category": "Lịch sử",
+  "score": 4.2183
+ },
+ "hf-thaotac870-71187a50a9": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1667
+ },
+ "hf-thaotac870-715de5c31f": {
+  "level": 13,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 3.105
+ },
+ "hf-thaotac870-716811c3e6": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.2267
+ },
+ "hf-thaotac870-724ad2af15": {
+  "level": 6,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.0967
+ },
+ "hf-thaotac870-7278f70cc0": {
+  "level": 3,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.1167
+ },
+ "hf-thaotac870-728c453944": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1183
+ },
+ "hf-thaotac870-7350d4ed1e": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.135
+ },
+ "hf-thaotac870-73aeff9321": {
+  "level": 10,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.215
+ },
+ "hf-thaotac870-73e5904c1d": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.095
+ },
+ "hf-thaotac870-74ebfbbd9d": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.12
+ },
+ "hf-thaotac870-75073a042b": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1033
+ },
+ "hf-thaotac870-7527476b74": {
+  "level": 6,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.09
+ },
+ "hf-thaotac870-75421a1f10": {
+  "level": 8,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1467
+ },
+ "hf-thaotac870-7551410e26": {
+  "level": 7,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.125
+ },
+ "hf-thaotac870-755694bb7a": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0917
+ },
+ "hf-thaotac870-7588d3873e": {
+  "level": 1,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 0.0717
+ },
+ "hf-thaotac870-75b6befafb": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1383
+ },
+ "hf-thaotac870-762c380d24": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1567
+ },
+ "hf-thaotac870-7676978e55": {
+  "level": 5,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1733
+ },
+ "hf-thaotac870-76825df034": {
+  "level": 3,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1133
+ },
+ "hf-thaotac870-77740209bf": {
+  "level": 1,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 2.2217
+ },
+ "hf-thaotac870-779de0d8bc": {
+  "level": 6,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.0867
+ },
+ "hf-thaotac870-77d7ff13c1": {
+  "level": 5,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.315
+ },
+ "hf-thaotac870-781934dc91": {
+  "level": 1,
+  "ok": false,
+  "category": "Ngôn ngữ",
+  "score": 3.2483
+ },
+ "hf-thaotac870-7849af92ab": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0633
+ },
+ "hf-thaotac870-78819ca89e": {
+  "level": 1,
+  "ok": false,
+  "category": "Ngôn ngữ",
+  "score": 2.1383
+ },
+ "hf-thaotac870-78acdb297b": {
+  "level": 7,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.1167
+ },
+ "hf-thaotac870-78b098b768": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.15
+ },
+ "hf-thaotac870-78b5492142": {
+  "level": 6,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.1067
+ },
+ "hf-thaotac870-78b999e167": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1067
+ },
+ "hf-thaotac870-791c3b392e": {
+  "level": 1,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.185
+ },
+ "hf-thaotac870-7a009ed275": {
+  "level": 13,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 3.1017
+ },
+ "hf-thaotac870-7af2d034e8": {
+  "level": 14,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 3.1767
+ },
+ "hf-thaotac870-7c49cdcba6": {
+  "level": 14,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 3.1783
+ },
+ "hf-thaotac870-7cd135b61f": {
+  "level": 10,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.2467
+ },
+ "hf-thaotac870-7cdabf58f6": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.1
+ },
+ "hf-thaotac870-7d1b3ab3d1": {
+  "level": 11,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.155
+ },
+ "hf-thaotac870-7d67697522": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.16
+ },
+ "hf-thaotac870-7d9ff571be": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.135
+ },
+ "hf-thaotac870-7ed28cc8fb": {
+  "level": 1,
+  "ok": false,
+  "category": "Kiến thức chung",
+  "score": 2.085
+ },
+ "hf-thaotac870-7ef41d0112": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 1.1717
+ },
+ "hf-thaotac870-7f36ecde30": {
+  "level": 15,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 3.1967
+ },
+ "hf-thaotac870-7f712872ab": {
+  "level": 5,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.2117
+ },
+ "hf-thaotac870-802d976ba2": {
+  "level": 12,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1917
+ },
+ "hf-thaotac870-80598d9bc7": {
+  "level": 8,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.1483
+ },
+ "hf-thaotac870-80a301884f": {
+  "level": 10,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.2
+ },
+ "hf-thaotac870-80c2f0dd7f": {
+  "level": 13,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.235
+ },
+ "hf-thaotac870-80db3bcf1c": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.0967
+ },
+ "hf-thaotac870-810b71f6a1": {
+  "level": 4,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 0.1417
+ },
+ "hf-thaotac870-81eec81f59": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.1883
+ },
+ "hf-thaotac870-820630fb3e": {
+  "level": 14,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 3.1583
+ },
+ "hf-thaotac870-83100886e9": {
+  "level": 1,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.1467
+ },
+ "hf-thaotac870-8326622ecc": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1033
+ },
+ "hf-thaotac870-835824469b": {
+  "level": 8,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.1533
+ },
+ "hf-thaotac870-835d87d5da": {
+  "level": 2,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 0.1
+ },
+ "hf-thaotac870-840129fdb9": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 2.13
+ },
+ "hf-thaotac870-844813bd61": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.075
+ },
+ "hf-thaotac870-85068d4ff7": {
+  "level": 7,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.1167
+ },
+ "hf-thaotac870-85669060c4": {
+  "level": 14,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 3.1417
+ },
+ "hf-thaotac870-85e88d5e53": {
+  "level": 8,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.15
+ },
+ "hf-thaotac870-85ed96ea7e": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1217
+ },
+ "hf-thaotac870-861b5fc2c5": {
+  "level": 15,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 3.2367
+ },
+ "hf-thaotac870-866d19a4ea": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0833
+ },
+ "hf-thaotac870-86f15ba3fc": {
+  "level": 8,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1467
+ },
+ "hf-thaotac870-8742048533": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.085
+ },
+ "hf-thaotac870-878467910c": {
+  "level": 13,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 2.355
+ },
+ "hf-thaotac870-87ecec5bf3": {
+  "level": 6,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.0933
+ },
+ "hf-thaotac870-88412a4455": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.2683
+ },
+ "hf-thaotac870-8853a21da8": {
+  "level": 4,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.15
+ },
+ "hf-thaotac870-88e9f2ad3e": {
+  "level": 13,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 2.2167
+ },
+ "hf-thaotac870-88ec8f41b4": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1917
+ },
+ "hf-thaotac870-8928861caa": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.1467
+ },
+ "hf-thaotac870-893ddebd27": {
+  "level": 4,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1383
+ },
+ "hf-thaotac870-898d3019c6": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1233
+ },
+ "hf-thaotac870-89cd052769": {
+  "level": 6,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.1067
+ },
+ "hf-thaotac870-89f268f70b": {
+  "level": 12,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1817
+ },
+ "hf-thaotac870-8ac6ba4d8f": {
+  "level": 9,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.1567
+ },
+ "hf-thaotac870-8acdfed74b": {
+  "level": 3,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.1283
+ },
+ "hf-thaotac870-8b0d737cb1": {
+  "level": 14,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 3.12
+ },
+ "hf-thaotac870-8b239a124e": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.2683
+ },
+ "hf-thaotac870-8c242b35c0": {
+  "level": 7,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1267
+ },
+ "hf-thaotac870-8c8591facf": {
+  "level": 1,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 0.0783
+ },
+ "hf-thaotac870-8c88da5bc4": {
+  "level": 4,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 0.1633
+ },
+ "hf-thaotac870-8c8aa335d9": {
+  "level": 14,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 3.12
+ },
+ "hf-thaotac870-8cc3721137": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.1833
+ },
+ "hf-thaotac870-8d1b66d277": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1483
+ },
+ "hf-thaotac870-8dde8489da": {
+  "level": 5,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.0767
+ },
+ "hf-thaotac870-8f16fc0e58": {
+  "level": 1,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.07
+ },
+ "hf-thaotac870-8f3aa84c3c": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn học",
+  "score": 2.2617
+ },
+ "hf-thaotac870-8fbc3748f8": {
+  "level": 14,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.1433
+ },
+ "hf-thaotac870-8fe6f8fd11": {
+  "level": 5,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 0.195
+ },
+ "hf-thaotac870-911b569162": {
+  "level": 1,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 0.11
+ },
+ "hf-thaotac870-912e97ca25": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.2067
+ },
+ "hf-thaotac870-919ebf5563": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.2067
+ },
+ "hf-thaotac870-919f12a6db": {
+  "level": 6,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.1033
+ },
+ "hf-thaotac870-91efe59d59": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.2067
+ },
+ "hf-thaotac870-91f3ada19b": {
+  "level": 7,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.115
+ },
+ "hf-thaotac870-9343cdce46": {
+  "level": 6,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1017
+ },
+ "hf-thaotac870-93aec5fcc6": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.17
+ },
+ "hf-thaotac870-93d943df09": {
+  "level": 13,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.2417
+ },
+ "hf-thaotac870-94979e7fa4": {
+  "level": 11,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1233
+ },
+ "hf-thaotac870-94dc00a821": {
+  "level": 6,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.105
+ },
+ "hf-thaotac870-950aacd24c": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0783
+ },
+ "hf-thaotac870-959b268caf": {
+  "level": 8,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.15
+ },
+ "hf-thaotac870-95a1d90bb6": {
+  "level": 9,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.16
+ },
+ "hf-thaotac870-95a37895fc": {
+  "level": 12,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.1767
+ },
+ "hf-thaotac870-9602890d2b": {
+  "level": 1,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 3.2967
+ },
+ "hf-thaotac870-961252b4f8": {
+  "level": 1,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 3.1767
+ },
+ "hf-thaotac870-9628896474": {
+  "level": 7,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1183
+ },
+ "hf-thaotac870-96cfabe9a0": {
+  "level": 13,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 2.2517
+ },
+ "hf-thaotac870-96d6e1c648": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.185
+ },
+ "hf-thaotac870-97f3f53ddf": {
+  "level": 6,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.0983
+ },
+ "hf-thaotac870-97f80525b6": {
+  "level": 6,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.0933
+ },
+ "hf-thaotac870-9831d73767": {
+  "level": 1,
+  "ok": true,
+  "category": "Toán học",
+  "score": 0.0867
+ },
+ "hf-thaotac870-98756b37a5": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.2183
+ },
+ "hf-thaotac870-98ad60ea14": {
+  "level": 4,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 0.1533
+ },
+ "hf-thaotac870-99546633f2": {
+  "level": 9,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.165
+ },
+ "hf-thaotac870-9960a174f6": {
+  "level": 3,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 0.1167
+ },
+ "hf-thaotac870-99f3e2158a": {
+  "level": 7,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.1117
+ },
+ "hf-thaotac870-99fb88090a": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1017
+ },
+ "hf-thaotac870-9aa03fa761": {
+  "level": 1,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 2.1383
+ },
+ "hf-thaotac870-9ad8744e5d": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.07
+ },
+ "hf-thaotac870-9ae8ee2bfe": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.2317
+ },
+ "hf-thaotac870-9af9c5bb6a": {
+  "level": 4,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1417
+ },
+ "hf-thaotac870-9b1e153315": {
+  "level": 6,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.105
+ },
+ "hf-thaotac870-9b27495ac2": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0867
+ },
+ "hf-thaotac870-9b40e4d4e4": {
+  "level": 4,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1483
+ },
+ "hf-thaotac870-9bd358112d": {
+  "level": 1,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 2.1517
+ },
+ "hf-thaotac870-9cc122377a": {
+  "level": 7,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.115
+ },
+ "hf-thaotac870-9ce034de92": {
+  "level": 1,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.25
+ },
+ "hf-thaotac870-9d9471d09f": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.2283
+ },
+ "hf-thaotac870-9d9e3e4cce": {
+  "level": 12,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 2.195
+ },
+ "hf-thaotac870-9dd4d21436": {
+  "level": 12,
+  "ok": true,
+  "category": "Công nghệ",
+  "score": 2.1833
+ },
+ "hf-thaotac870-9dde7a5363": {
+  "level": 1,
+  "ok": true,
+  "category": "Toán học",
+  "score": 0.0617
+ },
+ "hf-thaotac870-9de82b8015": {
+  "level": 15,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 3.21
+ },
+ "hf-thaotac870-9df0661047": {
+  "level": 4,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1417
+ },
+ "hf-thaotac870-9df765c032": {
+  "level": 11,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.1267
+ },
+ "hf-thaotac870-9e3bed5389": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1083
+ },
+ "hf-thaotac870-9e4b42680c": {
+  "level": 12,
+  "ok": true,
+  "category": "Công nghệ",
+  "score": 2.1817
+ },
+ "hf-thaotac870-9e813012d4": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 2.145
+ },
+ "hf-thaotac870-9f2a464c20": {
+  "level": 1,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 2.105
+ },
+ "hf-thaotac870-9f348bd449": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.1133
+ },
+ "hf-thaotac870-9f3ed43582": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.0983
+ },
+ "hf-thaotac870-9f535f870d": {
+  "level": 1,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 2.1483
+ },
+ "hf-thaotac870-a06dc5a4dd": {
+  "level": 9,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1667
+ },
+ "hf-thaotac870-a07b799141": {
+  "level": 6,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.0917
+ },
+ "hf-thaotac870-a09fe9697b": {
+  "level": 12,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 2.1717
+ },
+ "hf-thaotac870-a10e521a2e": {
+  "level": 14,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 3.14
+ },
+ "hf-thaotac870-a1bfbab82e": {
+  "level": 13,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.2183
+ },
+ "hf-thaotac870-a1ddefa816": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.1867
+ },
+ "hf-thaotac870-a230c397c9": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1983
+ },
+ "hf-thaotac870-a2bd9ce6f5": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.2067
+ },
+ "hf-thaotac870-a2db7b670f": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.0967
+ },
+ "hf-thaotac870-a332c1dd12": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1533
+ },
+ "hf-thaotac870-a3492c071e": {
+  "level": 14,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 3.1117
+ },
+ "hf-thaotac870-a3d5dd3b49": {
+  "level": 8,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1367
+ },
+ "hf-thaotac870-a3e0f5b4b6": {
+  "level": 15,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 3.2083
+ },
+ "hf-thaotac870-a40ef9b22e": {
+  "level": 10,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.2133
+ },
+ "hf-thaotac870-a41786cd71": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1033
+ },
+ "hf-thaotac870-a41aad3a31": {
+  "level": 9,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1583
+ },
+ "hf-thaotac870-a45571d4c1": {
+  "level": 9,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1567
+ },
+ "hf-thaotac870-a45618e383": {
+  "level": 12,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.1683
+ },
+ "hf-thaotac870-a45f7fe20a": {
+  "level": 10,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.2417
+ },
+ "hf-thaotac870-a4a1107b78": {
+  "level": 7,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1133
+ },
+ "hf-thaotac870-a4dac4ce86": {
+  "level": 14,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.1383
+ },
+ "hf-thaotac870-a4e7e19472": {
+  "level": 8,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1317
+ },
+ "hf-thaotac870-a50031a4f8": {
+  "level": 13,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.255
+ },
+ "hf-thaotac870-a5943f8017": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.15
+ },
+ "hf-thaotac870-a59abe57da": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.2017
+ },
+ "hf-thaotac870-a6a8e74bdc": {
+  "level": 12,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 2.1633
+ },
+ "hf-thaotac870-a6da4a2c06": {
+  "level": 15,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.275
+ },
+ "hf-thaotac870-a6e0c548ab": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.1233
+ },
+ "hf-thaotac870-a7b6567455": {
+  "level": 6,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.105
+ },
+ "hf-thaotac870-a8a649ff64": {
+  "level": 1,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 3.22
+ },
+ "hf-thaotac870-a96c7af752": {
+  "level": 8,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.1517
+ },
+ "hf-thaotac870-aa79ba5c3a": {
+  "level": 1,
+  "ok": false,
+  "category": "Toán học",
+  "score": 2.1883
+ },
+ "hf-thaotac870-aa9aa6f1f0": {
+  "level": 6,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.0983
+ },
+ "hf-thaotac870-ab3611ad97": {
+  "level": 14,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.1717
+ },
+ "hf-thaotac870-ab62936411": {
+  "level": 15,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 3.1917
+ },
+ "hf-thaotac870-abeefb9491": {
+  "level": 13,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.2333
+ },
+ "hf-thaotac870-ac09c1741c": {
+  "level": 1,
+  "ok": true,
+  "category": "Toán học",
+  "score": 0.09
+ },
+ "hf-thaotac870-ac18e1eea9": {
+  "level": 5,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.2383
+ },
+ "hf-thaotac870-ac77664b57": {
+  "level": 1,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 0.08
+ },
+ "hf-thaotac870-acdfc61a19": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.1583
+ },
+ "hf-thaotac870-ad46079732": {
+  "level": 12,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.1983
+ },
+ "hf-thaotac870-ad76fc9f02": {
+  "level": 14,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 3.1467
+ },
+ "hf-thaotac870-ad8c452748": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.2217
+ },
+ "hf-thaotac870-adc6feb565": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn học",
+  "score": 1.1817
+ },
+ "hf-thaotac870-add06cd58f": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1717
+ },
+ "hf-thaotac870-adfb973b2d": {
+  "level": 6,
+  "ok": true,
+  "category": "Toán học",
+  "score": 1.1067
+ },
+ "hf-thaotac870-ae9554c71b": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1217
+ },
+ "hf-thaotac870-aeb665708d": {
+  "level": 15,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.1817
+ },
+ "hf-thaotac870-aeed30235b": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.1467
+ },
+ "hf-thaotac870-af07aa74b0": {
+  "level": 1,
+  "ok": false,
+  "category": "Kiến thức chung",
+  "score": 3.0917
+ },
+ "hf-thaotac870-af3175e00f": {
+  "level": 14,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.12
+ },
+ "hf-thaotac870-af4c5345db": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.0967
+ },
+ "hf-thaotac870-af560a84d7": {
+  "level": 9,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.1917
+ },
+ "hf-thaotac870-af9a3a9b5b": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1217
+ },
+ "hf-thaotac870-afcd3eba8a": {
+  "level": 4,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1467
+ },
+ "hf-thaotac870-b007ab025a": {
+  "level": 1,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 2.0817
+ },
+ "hf-thaotac870-b00ca8193c": {
+  "level": 7,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.125
+ },
+ "hf-thaotac870-b05b536874": {
+  "level": 8,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1517
+ },
+ "hf-thaotac870-b0741f6248": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1483
+ },
+ "hf-thaotac870-b0c7ebbe07": {
+  "level": 12,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1567
+ },
+ "hf-thaotac870-b0ea7763cd": {
+  "level": 7,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.125
+ },
+ "hf-thaotac870-b11fd6b738": {
+  "level": 12,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 2.1733
+ },
+ "hf-thaotac870-b13e7b67c6": {
+  "level": 14,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 3.145
+ },
+ "hf-thaotac870-b14ed50a1d": {
+  "level": 5,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.0633
+ },
+ "hf-thaotac870-b19beb78b1": {
+  "level": 6,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.09
+ },
+ "hf-thaotac870-b1e786db69": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 1.1617
+ },
+ "hf-thaotac870-b1fdfd5f61": {
+  "level": 6,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.095
+ },
+ "hf-thaotac870-b223424a0b": {
+  "level": 10,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.2617
+ },
+ "hf-thaotac870-b28916b93a": {
+  "level": 8,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.1383
+ },
+ "hf-thaotac870-b30ebe78d4": {
+  "level": 14,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.1483
+ },
+ "hf-thaotac870-b32722b993": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.095
+ },
+ "hf-thaotac870-b368d90626": {
+  "level": 12,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 2.1883
+ },
+ "hf-thaotac870-b3fe41fc11": {
+  "level": 14,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 3.165
+ },
+ "hf-thaotac870-b41cf674b8": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.145
+ },
+ "hf-thaotac870-b4784da2b4": {
+  "level": 3,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1183
+ },
+ "hf-thaotac870-b4e9e37b56": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn học",
+  "score": 3.1883
+ },
+ "hf-thaotac870-b52af1d3c1": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.13
+ },
+ "hf-thaotac870-b56e1b470a": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0683
+ },
+ "hf-thaotac870-b5c1bf19fa": {
+  "level": 11,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 2.1217
+ },
+ "hf-thaotac870-b69644e323": {
+  "level": 13,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 2.2383
+ },
+ "hf-thaotac870-b722e7b07e": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1933
+ },
+ "hf-thaotac870-b7d35fa64a": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.0783
+ },
+ "hf-thaotac870-b7f02c7492": {
+  "level": 6,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1
+ },
+ "hf-thaotac870-b801f35184": {
+  "level": 7,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.12
+ },
+ "hf-thaotac870-b8115441b1": {
+  "level": 1,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 1.1217
+ },
+ "hf-thaotac870-b898dd0a82": {
+  "level": 12,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 2.1617
+ },
+ "hf-thaotac870-b8d2d49a77": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.1733
+ },
+ "hf-thaotac870-b8d83bee20": {
+  "level": 15,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 3.2417
+ },
+ "hf-thaotac870-b99193a96d": {
+  "level": 5,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.0667
+ },
+ "hf-thaotac870-b9f1547b33": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0733
+ },
+ "hf-thaotac870-ba1bfda588": {
+  "level": 11,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 2.1317
+ },
+ "hf-thaotac870-ba33a2834c": {
+  "level": 4,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.15
+ },
+ "hf-thaotac870-ba6bdfe1eb": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.1717
+ },
+ "hf-thaotac870-ba8e3630c0": {
+  "level": 13,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 2.2983
+ },
+ "hf-thaotac870-ba99340992": {
+  "level": 8,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.14
+ },
+ "hf-thaotac870-bb953b574e": {
+  "level": 4,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 0.145
+ },
+ "hf-thaotac870-bc469bc537": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1417
+ },
+ "hf-thaotac870-bc700509d9": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.0667
+ },
+ "hf-thaotac870-bd365de18d": {
+  "level": 9,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.16
+ },
+ "hf-thaotac870-bd4b3bb621": {
+  "level": 12,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.18
+ },
+ "hf-thaotac870-bdf27eb15b": {
+  "level": 7,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.1167
+ },
+ "hf-thaotac870-be0f7e4bbd": {
+  "level": 6,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.0967
+ },
+ "hf-thaotac870-be10b37891": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.21
+ },
+ "hf-thaotac870-be6a05ff45": {
+  "level": 3,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.115
+ },
+ "hf-thaotac870-be6d228f95": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.1917
+ },
+ "hf-thaotac870-be70482c94": {
+  "level": 11,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 2.1133
+ },
+ "hf-thaotac870-bf0f9e5f62": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.225
+ },
+ "hf-thaotac870-bf3dda6ea2": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.18
+ },
+ "hf-thaotac870-bf4bb7f1f2": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0617
+ },
+ "hf-thaotac870-bf714aca18": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1017
+ },
+ "hf-thaotac870-bf84065787": {
+  "level": 6,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.105
+ },
+ "hf-thaotac870-bfe203c8d6": {
+  "level": 6,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.105
+ },
+ "hf-thaotac870-c0c5cdd8c1": {
+  "level": 1,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 3.2383
+ },
+ "hf-thaotac870-c129e898c6": {
+  "level": 1,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 1.12
+ },
+ "hf-thaotac870-c1e98d1d8a": {
+  "level": 1,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 1.13
+ },
+ "hf-thaotac870-c219bf28ea": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.2
+ },
+ "hf-thaotac870-c247e9a32b": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0983
+ },
+ "hf-thaotac870-c24f6dcd5a": {
+  "level": 1,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 0.0833
+ },
+ "hf-thaotac870-c308dd0f07": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1433
+ },
+ "hf-thaotac870-c4a96bc3d0": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.26
+ },
+ "hf-thaotac870-c519ff92aa": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.1517
+ },
+ "hf-thaotac870-c56ab443d3": {
+  "level": 7,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.1117
+ },
+ "hf-thaotac870-c5c2918760": {
+  "level": 3,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1167
+ },
+ "hf-thaotac870-c5f4b820fe": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.115
+ },
+ "hf-thaotac870-c6304e2953": {
+  "level": 1,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.0683
+ },
+ "hf-thaotac870-c668c14eb8": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.1917
+ },
+ "hf-thaotac870-c688cee55e": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.09
+ },
+ "hf-thaotac870-c69e54d528": {
+  "level": 3,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 0.1217
+ },
+ "hf-thaotac870-c6a27517bc": {
+  "level": 13,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 2.205
+ },
+ "hf-thaotac870-c6a2fa81aa": {
+  "level": 8,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.13
+ },
+ "hf-thaotac870-c6f9cdf4c5": {
+  "level": 1,
+  "ok": false,
+  "category": "Ngôn ngữ",
+  "score": 2.16
+ },
+ "hf-thaotac870-c704bb4d75": {
+  "level": 15,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 3.2217
+ },
+ "hf-thaotac870-c7d3f9c07e": {
+  "level": 15,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 3.2233
+ },
+ "hf-thaotac870-c817374fcd": {
+  "level": 9,
+  "ok": true,
+  "category": "Điện ảnh",
+  "score": 1.1633
+ },
+ "hf-thaotac870-c864773767": {
+  "level": 8,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.15
+ },
+ "hf-thaotac870-c875f9663d": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1583
+ },
+ "hf-thaotac870-c8789762b4": {
+  "level": 15,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 3.1867
+ },
+ "hf-thaotac870-c88fe79259": {
+  "level": 10,
+  "ok": true,
+  "category": "Toán học",
+  "score": 1.2167
+ },
+ "hf-thaotac870-c89add4995": {
+  "level": 1,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 0.08
+ },
+ "hf-thaotac870-c9bd48f905": {
+  "level": 3,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 0.1233
+ },
+ "hf-thaotac870-c9d81df16a": {
+  "level": 8,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.1483
+ },
+ "hf-thaotac870-c9f603047c": {
+  "level": 1,
+  "ok": false,
+  "category": "Ngôn ngữ",
+  "score": 1.11
+ },
+ "hf-thaotac870-ca266ecab8": {
+  "level": 7,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.1233
+ },
+ "hf-thaotac870-ca2cebf25a": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.095
+ },
+ "hf-thaotac870-ca2db219cd": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1983
+ },
+ "hf-thaotac870-caba57e627": {
+  "level": 4,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 0.1367
+ },
+ "hf-thaotac870-caf5ae1349": {
+  "level": 9,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.155
+ },
+ "hf-thaotac870-cb326622ac": {
+  "level": 10,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.2433
+ },
+ "hf-thaotac870-cb6d3a1035": {
+  "level": 1,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 1.1133
+ },
+ "hf-thaotac870-cbd5abb1f3": {
+  "level": 14,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 3.1267
+ },
+ "hf-thaotac870-cbe4e8d7fb": {
+  "level": 10,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.2533
+ },
+ "hf-thaotac870-ccc0b4f7c4": {
+  "level": 14,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 3.1233
+ },
+ "hf-thaotac870-cd885021c1": {
+  "level": 11,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.1367
+ },
+ "hf-thaotac870-cdb9a82074": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.3083
+ },
+ "hf-thaotac870-cde9a85794": {
+  "level": 6,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.0933
+ },
+ "hf-thaotac870-ce7aba0c64": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.08
+ },
+ "hf-thaotac870-ce816f2537": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.2133
+ },
+ "hf-thaotac870-cf523e5511": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.145
+ },
+ "hf-thaotac870-cf95c95660": {
+  "level": 11,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.1167
+ },
+ "hf-thaotac870-cf9b664f2e": {
+  "level": 9,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.175
+ },
+ "hf-thaotac870-d01720d60d": {
+  "level": 1,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 0.1083
+ },
+ "hf-thaotac870-d07bbf4899": {
+  "level": 1,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 3.1117
+ },
+ "hf-thaotac870-d09b965f34": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.095
+ },
+ "hf-thaotac870-d0a7befc69": {
+  "level": 10,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.2233
+ },
+ "hf-thaotac870-d0ecd61d36": {
+  "level": 11,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 2.1283
+ },
+ "hf-thaotac870-d1439aaa8c": {
+  "level": 1,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.1767
+ },
+ "hf-thaotac870-d16a4b04f2": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1183
+ },
+ "hf-thaotac870-d1d8d35ded": {
+  "level": 7,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.1117
+ },
+ "hf-thaotac870-d2260cb487": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 2.18
+ },
+ "hf-thaotac870-d240557c33": {
+  "level": 7,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1167
+ },
+ "hf-thaotac870-d27267a42c": {
+  "level": 1,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 1.22
+ },
+ "hf-thaotac870-d2940ab1b2": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.265
+ },
+ "hf-thaotac870-d338042cb6": {
+  "level": 9,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1567
+ },
+ "hf-thaotac870-d3ef05ca36": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.14
+ },
+ "hf-thaotac870-d44f49aea6": {
+  "level": 6,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.0883
+ },
+ "hf-thaotac870-d55ad1d1db": {
+  "level": 13,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.2267
+ },
+ "hf-thaotac870-d56ef016d0": {
+  "level": 3,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.125
+ },
+ "hf-thaotac870-d571147d79": {
+  "level": 12,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.1683
+ },
+ "hf-thaotac870-d63feffc01": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.1683
+ },
+ "hf-thaotac870-d66b9da2b6": {
+  "level": 9,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.1767
+ },
+ "hf-thaotac870-d67ba9c11e": {
+  "level": 5,
+  "ok": true,
+  "category": "Công nghệ",
+  "score": 0.1783
+ },
+ "hf-thaotac870-d69feeba63": {
+  "level": 1,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 1.06
+ },
+ "hf-thaotac870-d6ae1d8f2a": {
+  "level": 4,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.135
+ },
+ "hf-thaotac870-d729633e02": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.095
+ },
+ "hf-thaotac870-d749c29004": {
+  "level": 1,
+  "ok": false,
+  "category": "Ngôn ngữ",
+  "score": 2.1567
+ },
+ "hf-thaotac870-d7aa81a582": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.1933
+ },
+ "hf-thaotac870-d7bb6e5909": {
+  "level": 1,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 3.1667
+ },
+ "hf-thaotac870-d7f9f039c1": {
+  "level": 8,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.1533
+ },
+ "hf-thaotac870-d814700fee": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.2433
+ },
+ "hf-thaotac870-d85588a616": {
+  "level": 11,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.1283
+ },
+ "hf-thaotac870-d8617c2a72": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn học",
+  "score": 4.275
+ },
+ "hf-thaotac870-d89dea5575": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.185
+ },
+ "hf-thaotac870-d8a40ebdfe": {
+  "level": 5,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 0.285
+ },
+ "hf-thaotac870-d8a8856b63": {
+  "level": 5,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1883
+ },
+ "hf-thaotac870-d8e8121cde": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.2533
+ },
+ "hf-thaotac870-d942084aaf": {
+  "level": 1,
+  "ok": false,
+  "category": "Lịch sử",
+  "score": 3.155
+ },
+ "hf-thaotac870-d9a74f281a": {
+  "level": 10,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.2183
+ },
+ "hf-thaotac870-d9f8490a2f": {
+  "level": 1,
+  "ok": false,
+  "category": "Thể thao",
+  "score": 1.155
+ },
+ "hf-thaotac870-da16816e99": {
+  "level": 7,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1183
+ },
+ "hf-thaotac870-daa9e4b930": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.2633
+ },
+ "hf-thaotac870-dac9245ee5": {
+  "level": 8,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.13
+ },
+ "hf-thaotac870-dadc4d5e8a": {
+  "level": 9,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.1917
+ },
+ "hf-thaotac870-db0195104c": {
+  "level": 5,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.0733
+ },
+ "hf-thaotac870-db06df5cfe": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 1.0883
+ },
+ "hf-thaotac870-db1bc4bdab": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 2.205
+ },
+ "hf-thaotac870-db413f7f0a": {
+  "level": 15,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 3.1933
+ },
+ "hf-thaotac870-db902ec1e4": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1183
+ },
+ "hf-thaotac870-dbf9e84696": {
+  "level": 4,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.1467
+ },
+ "hf-thaotac870-dc473925d5": {
+  "level": 1,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 1.0917
+ },
+ "hf-thaotac870-dc6f76d2f0": {
+  "level": 10,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 1.21
+ },
+ "hf-thaotac870-dc958b9bfe": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.29
+ },
+ "hf-thaotac870-dc9e7c1bc7": {
+  "level": 4,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.1367
+ },
+ "hf-thaotac870-dd2d1a04d1": {
+  "level": 1,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 2.2033
+ },
+ "hf-thaotac870-dd3798b8e0": {
+  "level": 2,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.11
+ },
+ "hf-thaotac870-dd74b2c550": {
+  "level": 8,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.135
+ },
+ "hf-thaotac870-dd8c158771": {
+  "level": 1,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 2.12
+ },
+ "hf-thaotac870-dde6770811": {
+  "level": 9,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.175
+ },
+ "hf-thaotac870-dde8d94fb8": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 3.2833
+ },
+ "hf-thaotac870-debba7573f": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 2.1167
+ },
+ "hf-thaotac870-decdf90724": {
+  "level": 4,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 0.17
+ },
+ "hf-thaotac870-dede1aff85": {
+  "level": 12,
+  "ok": true,
+  "category": "Công nghệ",
+  "score": 2.16
+ },
+ "hf-thaotac870-df31189f55": {
+  "level": 7,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 1.1233
+ },
+ "hf-thaotac870-df639097c3": {
+  "level": 9,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.175
+ },
+ "hf-thaotac870-e01d0598c4": {
+  "level": 11,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 2.1183
+ },
+ "hf-thaotac870-e08057bb77": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1867
+ },
+ "hf-thaotac870-e090e172e2": {
+  "level": 5,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.0717
+ },
+ "hf-thaotac870-e0bf8f0e3a": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.2283
+ },
+ "hf-thaotac870-e12577b76e": {
+  "level": 7,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1233
+ },
+ "hf-thaotac870-e13f61b6b0": {
+  "level": 8,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1533
+ },
+ "hf-thaotac870-e16ab7bdea": {
+  "level": 1,
+  "ok": false,
+  "category": "Khoa học",
+  "score": 0.0867
+ },
+ "hf-thaotac870-e1c2c04a50": {
+  "level": 1,
+  "ok": false,
+  "category": "Đời sống",
+  "score": 0.0733
+ },
+ "hf-thaotac870-e22a67f700": {
+  "level": 7,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.1117
+ },
+ "hf-thaotac870-e2468fe49e": {
+  "level": 10,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.09
+ },
+ "hf-thaotac870-e2902d9533": {
+  "level": 7,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.1133
+ },
+ "hf-thaotac870-e2d100da79": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.2583
+ },
+ "hf-thaotac870-e32db3a57c": {
+  "level": 12,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 2.1983
+ },
+ "hf-thaotac870-e33233001d": {
+  "level": 3,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 0.1133
+ },
+ "hf-thaotac870-e3a55a2fa4": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.0917
+ },
+ "hf-thaotac870-e406c8d8f5": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.1917
+ },
+ "hf-thaotac870-e4cd542ed7": {
+  "level": 3,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.13
+ },
+ "hf-thaotac870-e4ff3338f3": {
+  "level": 5,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.0533
+ },
+ "hf-thaotac870-e51798b4ec": {
+  "level": 10,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.2333
+ },
+ "hf-thaotac870-e54a14e9d9": {
+  "level": 1,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 3.2433
+ },
+ "hf-thaotac870-e596d17aac": {
+  "level": 9,
+  "ok": true,
+  "category": "Văn học",
+  "score": 1.1817
+ },
+ "hf-thaotac870-e5a42e3f84": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.2467
+ },
+ "hf-thaotac870-e5abbd7c54": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.2283
+ },
+ "hf-thaotac870-e5cbb50eb1": {
+  "level": 10,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.285
+ },
+ "hf-thaotac870-e60a9a52b2": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1117
+ },
+ "hf-thaotac870-e6436ca53b": {
+  "level": 15,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 3.22
+ },
+ "hf-thaotac870-e6e7d073b9": {
+  "level": 8,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1433
+ },
+ "hf-thaotac870-e6f0d18ae2": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn học",
+  "score": 3.155
+ },
+ "hf-thaotac870-e738d2aead": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.1917
+ },
+ "hf-thaotac870-e75a1c69be": {
+  "level": 14,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 3.175
+ },
+ "hf-thaotac870-e75e4d7c9a": {
+  "level": 12,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 2.185
+ },
+ "hf-thaotac870-e81d21ac49": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.195
+ },
+ "hf-thaotac870-e85aa8976d": {
+  "level": 14,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 3.1633
+ },
+ "hf-thaotac870-e90cb56cad": {
+  "level": 5,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.245
+ },
+ "hf-thaotac870-e9493beff2": {
+  "level": 6,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.0983
+ },
+ "hf-thaotac870-e988556119": {
+  "level": 1,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.0883
+ },
+ "hf-thaotac870-e9dd58d203": {
+  "level": 6,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.0917
+ },
+ "hf-thaotac870-eb38060efe": {
+  "level": 1,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 1.1317
+ },
+ "hf-thaotac870-eb5b8653ca": {
+  "level": 7,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 1.1167
+ },
+ "hf-thaotac870-ebf30615eb": {
+  "level": 13,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.225
+ },
+ "hf-thaotac870-ec1ecb5944": {
+  "level": 2,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 0.11
+ },
+ "hf-thaotac870-ec3ea1d19c": {
+  "level": 14,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 3.115
+ },
+ "hf-thaotac870-ec5fe922b8": {
+  "level": 1,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 0.0533
+ },
+ "hf-thaotac870-ec763ab713": {
+  "level": 9,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.155
+ },
+ "hf-thaotac870-ece9b2b1d7": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn hóa",
+  "score": 2.25
+ },
+ "hf-thaotac870-ed0bb5a95e": {
+  "level": 6,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.1017
+ },
+ "hf-thaotac870-ed4de06e18": {
+  "level": 11,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.1417
+ },
+ "hf-thaotac870-ed71bfbaa3": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.1033
+ },
+ "hf-thaotac870-ed771a7e53": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.1017
+ },
+ "hf-thaotac870-ed81d5815e": {
+  "level": 6,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 1.1083
+ },
+ "hf-thaotac870-ede0df6c20": {
+  "level": 1,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 3.1217
+ },
+ "hf-thaotac870-ee7ab10c43": {
+  "level": 11,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.1517
+ },
+ "hf-thaotac870-ef5cf7ae46": {
+  "level": 14,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 3.1667
+ },
+ "hf-thaotac870-ef825c997a": {
+  "level": 1,
+  "ok": false,
+  "category": "Địa lý",
+  "score": 3.1767
+ },
+ "hf-thaotac870-efca717431": {
+  "level": 10,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.2
+ },
+ "hf-thaotac870-f08837f1bf": {
+  "level": 8,
+  "ok": true,
+  "category": "Toán học",
+  "score": 1.145
+ },
+ "hf-thaotac870-f0cf8b0306": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1267
+ },
+ "hf-thaotac870-f0fefc8dd9": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.0933
+ },
+ "hf-thaotac870-f1f387a16d": {
+  "level": 1,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.0833
+ },
+ "hf-thaotac870-f23309e937": {
+  "level": 13,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 2.2917
+ },
+ "hf-thaotac870-f2a014a026": {
+  "level": 9,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1883
+ },
+ "hf-thaotac870-f2aea54cca": {
+  "level": 10,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 1.2133
+ },
+ "hf-thaotac870-f36b814e7d": {
+  "level": 3,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1117
+ },
+ "hf-thaotac870-f3867450d2": {
+  "level": 10,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.1983
+ },
+ "hf-thaotac870-f3b6116889": {
+  "level": 14,
+  "ok": true,
+  "category": "Kiến thức chung",
+  "score": 3.1683
+ },
+ "hf-thaotac870-f496c5b744": {
+  "level": 9,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 1.195
+ },
+ "hf-thaotac870-f4a152c0ff": {
+  "level": 7,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 1.12
+ },
+ "hf-thaotac870-f4e78d27ce": {
+  "level": 1,
+  "ok": false,
+  "category": "Văn học",
+  "score": 3.1733
+ },
+ "hf-thaotac870-f505709029": {
+  "level": 13,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.2583
+ },
+ "hf-thaotac870-f5284d6feb": {
+  "level": 7,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.12
+ },
+ "hf-thaotac870-f56c745867": {
+  "level": 14,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 3.1417
+ },
+ "hf-thaotac870-f61917e0f3": {
+  "level": 15,
+  "ok": true,
+  "category": "Văn học",
+  "score": 3.2017
+ },
+ "hf-thaotac870-f74c2d5def": {
+  "level": 1,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 0.0917
+ },
+ "hf-thaotac870-f76cbde4dd": {
+  "level": 12,
+  "ok": true,
+  "category": "Thể thao",
+  "score": 2.1583
+ },
+ "hf-thaotac870-f7d907630c": {
+  "level": 11,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 2.0983
+ },
+ "hf-thaotac870-f7e2f70352": {
+  "level": 4,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 0.1483
+ },
+ "hf-thaotac870-f860da70cb": {
+  "level": 12,
+  "ok": true,
+  "category": "Công nghệ",
+  "score": 2.1783
+ },
+ "hf-thaotac870-f8cb1378fb": {
+  "level": 15,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 3.1783
+ },
+ "hf-thaotac870-f8d2a821e5": {
+  "level": 12,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.185
+ },
+ "hf-thaotac870-f8e934f3ca": {
+  "level": 7,
+  "ok": true,
+  "category": "Ngôn ngữ",
+  "score": 1.1183
+ },
+ "hf-thaotac870-f94a05f1ef": {
+  "level": 14,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 3.155
+ },
+ "hf-thaotac870-f96af1ffd4": {
+  "level": 10,
+  "ok": true,
+  "category": "Lịch sử",
+  "score": 1.2183
+ },
+ "hf-thaotac870-f98d2ceef0": {
+  "level": 2,
+  "ok": true,
+  "category": "Khoa học",
+  "score": 0.0933
+ },
+ "hf-thaotac870-f9a47b7916": {
+  "level": 1,
+  "ok": false,
+  "category": "Toán học",
+  "score": 3.1367
+ },
+ "hf-thaotac870-f9efd45db6": {
+  "level": 1,
+  "ok": false,
+  "category": "Điện ảnh",
+  "score": 3.2733
+ },
+ "hf-thaotac870-fad7cbc8e1": {
+  "level": 12,
+  "ok": true,
+  "category": "Âm nhạc",
+  "score": 2.1683
+ },
+ "hf-thaotac870-fb23c7c311": {
+  "level": 1,
+  "ok": false,
+  "category": "Ngôn ngữ",
+  "score": 2.1083
+ },
+ "hf-thaotac870-fb360bf6fe": {
+  "level": 2,
+  "ok": true,
+  "category": "Địa lý",
+  "score": 0.0983
+ },
+ "hf-thaotac870-fb7538e8c9": {
+  "level": 1,
+  "ok": false,
+  "category": "Âm nhạc",
+  "score": 3.36
+ },
+ "hf-thaotac870-fbcdee0988": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0917
+ },
+ "hf-thaotac870-fc97987aee": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn hóa",
+  "score": 2.205
+ },
+ "hf-thaotac870-fe2dccf202": {
+  "level": 7,
+  "ok": true,
+  "category": "Công nghệ",
+  "score": 1.1267
+ },
+ "hf-thaotac870-fe32aefed3": {
+  "level": 1,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.0817
+ },
+ "hf-thaotac870-fe3a869dda": {
+  "level": 4,
+  "ok": true,
+  "category": "Đời sống",
+  "score": 0.1417
+ },
+ "hf-thaotac870-fed26eda66": {
+  "level": 4,
+  "ok": true,
+  "category": "Văn học",
+  "score": 0.14
+ },
+ "hf-thaotac870-ff5202f95c": {
+  "level": 13,
+  "ok": true,
+  "category": "Văn học",
+  "score": 2.2
+ }
+}

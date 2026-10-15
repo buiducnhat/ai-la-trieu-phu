@@ -1,0 +1,15 @@
+/*
+ * Retro font. "Press Start 2P" has no Vietnamese glyphs, so the default retro
+ * face is VT323 (full Vietnamese coverage). Both faces come from @fontsource
+ * (see styles/globals.css) and are exposed as CSS variables.
+ */
+.retro {
+  font-family: var(--font-retro), ui-monospace, monospace;
+  line-height: 1.25;
+  letter-spacing: 0.5px;
+}
+
+.pixelated {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
