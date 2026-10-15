@@ -1,6 +1,6 @@
 # Ai Là Triệu Phú 8-bit
 
-[![CI](https://github.com/buiducnhat/ai-la-trieu-phu/actions/workflows/deploy.yml/badge.svg)](https://github.com/buiducnhat/ai-la-trieu-phu/actions/workflows/deploy.yml)
+[![CI](https://github.com/buiducnhat/ai-la-trieu-phu/actions/workflows/ci.yml/badge.svg)](https://github.com/buiducnhat/ai-la-trieu-phu/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Trò chơi **Ai Là Triệu Phú** tiếng Việt, luật chơi **phiên bản 15 (phát sóng từ 31/03/2026, VTV3)**, giao diện pixel 8-bit.
@@ -42,8 +42,8 @@ Biến không bí mật (`LLM_PROVIDER`, `LLM_MODEL`, `QUESTION_SOURCE`, `QUESTI
 | `vp test run`                       | Unit test (Vitest qua Vite+)               |
 | `bun run bank:import`               | Tải lại và dựng lại bộ câu hỏi công khai   |
 
-Deploy tự động: merge vào `main` → GitHub Actions chạy check/test/build rồi `wrangler deploy`. Cần secret
-`CLOUDFLARE_API_TOKEN` và `CLOUDFLARE_ACCOUNT_ID` ([chi tiết](docs/architecture/ci-cd-deployment.md)).
+Deploy tự động: kết nối repo với Cloudflare Workers Builds (GitHub App của Cloudflare, không cần secret trên GitHub);
+mỗi lần push `main` Cloudflare tự build + deploy ([chi tiết](docs/architecture/ci-cd-deployment.md)).
 
 ## Luật chơi (cập nhật 2026)
 

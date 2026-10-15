@@ -11,12 +11,12 @@ Before planning or implementing, read this `docs/SUMMARY.md` file first. Load on
 
 System design, component interactions, data flows, deployment, and external integrations.
 
-| File                                                            | Description                                                          |
-| --------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [game-flow.md](architecture/game-flow.md)                       | Luồng chơi, ranh giới client/server (server function), token đáp án  |
-| [question-sources.md](architecture/question-sources.md)         | Bank, URL ngoài, LLM, fallback và giới hạn tần suất                  |
-| [lifelines-simulation.md](architecture/lifelines-simulation.md) | Cách mô phỏng các quyền trợ giúp                                     |
-| [ci-cd-deployment.md](architecture/ci-cd-deployment.md)         | Workflow GitHub Actions, deploy Cloudflare Workers, secret cần thiết |
+| File                                                            | Description                                                         |
+| --------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [game-flow.md](architecture/game-flow.md)                       | Luồng chơi, ranh giới client/server (server function), token đáp án |
+| [question-sources.md](architecture/question-sources.md)         | Bank, URL ngoài, LLM, fallback và giới hạn tần suất                 |
+| [lifelines-simulation.md](architecture/lifelines-simulation.md) | Cách mô phỏng các quyền trợ giúp                                    |
+| [ci-cd-deployment.md](architecture/ci-cd-deployment.md)         | CI GitHub Actions, deploy bằng Cloudflare Workers Builds, tên miền  |
 
 ## Codebase
 

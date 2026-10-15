@@ -33,4 +33,4 @@
 
 ## Quy trình đóng góp
 
-- Nhánh từ `main`, PR vào `main`; commit theo Conventional Commits (`feat:`, `fix:`, `docs:`). CI (`bun run check`, `bun run test`, `bun run build`) phải qua trước khi merge; merge vào `main` tự deploy. Chi tiết: `CONTRIBUTING.md`.
+- Nhánh từ `main`, PR vào `main`; commit theo Conventional Commits (`feat:`, `fix:`, `docs:`). CI (`bun run check`, `bun run test`, `bun run build`) phải qua trước khi merge; push vào `main` được Cloudflare Workers Builds tự deploy. Chi tiết: `CONTRIBUTING.md`.

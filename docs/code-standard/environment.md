@@ -1,6 +1,6 @@
 # Biến môi trường và chạy dự án
 
-Tất cả đều tùy chọn trừ `GAME_SECRET` ở production. Local/preview: sao chép `.env.example` thành `.dev.vars` (Cloudflare plugin đọc file này; bị gitignore). Production: `wrangler secret put GAME_SECRET` / `LLM_API_KEY`, biến không bí mật đặt trong khối `vars` của `wrangler.jsonc` hoặc dashboard. Env được đọc từ `process.env` (bật bởi `nodejs_compat`). CI deploy chỉ cần secret GitHub `CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID` (xem [ci-cd-deployment.md](../architecture/ci-cd-deployment.md)); secret runtime không đi qua CI.
+Tất cả đều tùy chọn trừ `GAME_SECRET` ở production. Local/preview: sao chép `.env.example` thành `.dev.vars` (Cloudflare plugin đọc file này; bị gitignore). Production: `wrangler secret put GAME_SECRET` / `LLM_API_KEY`, biến không bí mật đặt trong khối `vars` của `wrangler.jsonc` hoặc dashboard. Env được đọc từ `process.env` (bật bởi `nodejs_compat`). Deploy do Cloudflare Workers Builds đảm nhiệm nên GitHub không giữ secret nào (xem [ci-cd-deployment.md](../architecture/ci-cd-deployment.md)).
 
 | Biến                                       | Tác dụng                                                                                                                                                      |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
