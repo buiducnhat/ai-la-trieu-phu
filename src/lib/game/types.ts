@@ -69,7 +69,7 @@ export interface GameSettings {
   source: QuestionSourceMode;
   /** Chủ đề ưu tiên (rỗng = kiến thức chung). Chỉ áp dụng cho AI. */
   topic: string;
-  /** Âm thanh 8-bit. */
+  /** Âm thanh (tệp thật nếu có, không thì chiptune). */
   sound: boolean;
   /** Cấu hình AI riêng của người chơi (lưu trong trình duyệt). */
   llm: ClientLlmConfig;

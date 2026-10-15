@@ -5,7 +5,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { toast } from "@/components/ui/8bit/toast";
 import { useGame } from "@/hooks/use-game";
 import type { GameSettings, PublicConfig } from "@/lib/game/types";
-import { playSound, type SoundName } from "@/lib/sound";
+import { playSound, type SoundEvent, stopSound } from "@/lib/sound";
 import { loadSettings, loadStats, recordGame, saveSettings, type Stats } from "@/lib/storage";
 
 import { MenuScreen } from "./menu-screen";
@@ -37,7 +37,15 @@ export function GameApp({ config }: { config: PublicConfig }) {
     if (hydrated.current) saveSettings(next);
   }, []);
 
-  const play = useCallback((name: SoundName) => playSound(name, settings.sound), [settings.sound]);
+  const play = useCallback(
+    (event: SoundEvent) => playSound(event, settings.sound),
+    [settings.sound],
+  );
+
+  // Tắt âm thanh giữa chừng thì dừng ngay nhạc đang phát.
+  useEffect(() => {
+    if (!settings.sound) stopSound();
+  }, [settings.sound]);
   const game = useGame(settings, play, (message) => toast(message));
   const { state } = game;
 

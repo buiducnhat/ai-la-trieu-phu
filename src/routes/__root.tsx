@@ -12,9 +12,9 @@ import "@fontsource/press-start-2p/index.css";
 import appCss from "../styles/globals.css?url";
 
 const SITE_URL = "https://ailatrieuphu.buiducnhat.work";
-const SITE_TITLE = "Ai Là Triệu Phú 8-bit · Chơi đố vui pixel online";
+const SITE_TITLE = "Ai Là Triệu Phú · Chơi đố vui pixel online";
 const SITE_DESCRIPTION =
-  "Chơi Ai Là Triệu Phú online miễn phí, giao diện pixel 8-bit: 15 câu hỏi lên 500 triệu, 4 quyền trợ giúp, luật mới 2026. Câu hỏi từ kho dữ liệu hoặc do AI soạn riêng cho bạn.";
+  "Chơi Ai Là Triệu Phú online miễn phí, giao diện pixel: 15 câu hỏi lên 500 triệu, 4 quyền trợ giúp, luật mới 2026. Câu hỏi từ kho dữ liệu hoặc do AI soạn riêng cho bạn.";
 
 export const Route = createRootRoute({
   head: () => ({
@@ -26,7 +26,7 @@ export const Route = createRootRoute({
       { name: "description", content: SITE_DESCRIPTION },
       { property: "og:type", content: "website" },
       { property: "og:locale", content: "vi_VN" },
-      { property: "og:site_name", content: "Ai Là Triệu Phú 8-bit" },
+      { property: "og:site_name", content: "Ai Là Triệu Phú" },
       { property: "og:title", content: SITE_TITLE },
       { property: "og:description", content: SITE_DESCRIPTION },
       { property: "og:url", content: SITE_URL },

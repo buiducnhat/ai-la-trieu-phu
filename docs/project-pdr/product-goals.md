@@ -1,6 +1,6 @@
 # Mục tiêu sản phẩm
 
-Game **Ai Là Triệu Phú** tiếng Việt chạy trên web, giao diện 8-bit, một ứng dụng TanStack Start fullstack (không backend tách), triển khai trên Cloudflare Workers.
+Game **Ai Là Triệu Phú** tiếng Việt chạy trên web, giao diện pixel, một ứng dụng TanStack Start fullstack (không backend tách), triển khai trên Cloudflare Workers.
 
 Yêu cầu ban đầu của chủ dự án:
 
@@ -17,4 +17,4 @@ Yêu cầu ban đầu của chủ dự án:
 
 ## Ngoài phạm vi hiện tại
 
-Tài khoản/bảng xếp hạng chung, nhiều người chơi, lưu ván giữa chừng, phát âm thanh/giọng MC thật. Thành tích chỉ lưu cục bộ (10 ván gần nhất).
+Tài khoản/bảng xếp hạng chung, nhiều người chơi, lưu ván giữa chừng, giọng MC thật (nhạc và hiệu ứng thật có, xem architecture/audio.md). Thành tích chỉ lưu cục bộ (10 ván gần nhất).

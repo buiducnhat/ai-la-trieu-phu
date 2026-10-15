@@ -10,7 +10,7 @@ src/routes/
   index.tsx            Route "/": loader getPublicConfigFn -> <GameApp/>
 src/styles/globals.css Theme (biến màu oklch), font @fontsource, .pixel-box, animation
 src/lib/game/           rules.ts (luật 2026), engine.ts (reducer), types.ts  [dùng được cả client lẫn server]
-src/lib/                llm-presets.ts, sound.ts (WebAudio), storage.ts (localStorage), utils.ts (cn)
+src/lib/                llm-presets.ts, sound.ts + audio-cues.ts + audio-manifest.ts (âm thanh, xem architecture/audio.md), storage.ts (localStorage), utils.ts (cn)
 src/server/             game.functions.ts (createServerFn — ranh giới client/server) + bank, llm, lifelines, token, game-service, random, rate-limit  [marker "@tanstack/react-start/server-only"]
 src/hooks/              use-game.ts (reducer <-> server), use-timers.ts (typewriter, countdown)
 src/components/game/    menu, play screen, answer, ladder, lifeline bar/dialog, rules, settings, result, money
@@ -19,6 +19,7 @@ src/data/bank/          questions.json, sources.json, README.md (sinh bởi scri
 src/test/server-only.ts Stub cho marker server-only khi chạy test (alias trong vite.config.ts)
 public/                favicon.ico, icon-192/512.png, apple-touch-icon.png, og-image.png (1200x630); được tham chiếu ở src/routes/__root.tsx
 scripts/import-bank.ts  Tải nguồn công khai -> bank (chạy bằng Bun)
+scripts/fetch-audio.ts  Tải âm thanh chương trình từ wiki -> public/audio (bun run audio:fetch; cần ffmpeg; kết quả được commit)
 data/bank-ratings.json  Kết quả chấm độ khó/thể loại/ok bằng LLM (commit, để import không cần LLM)
 .github/workflows/    ci.yml (PR + push main: check/test/build); deploy do Cloudflare Workers Builds, xem architecture/ci-cd-deployment.md
 .github/              dependabot.yml, PULL_REQUEST_TEMPLATE.md, ISSUE_TEMPLATE/

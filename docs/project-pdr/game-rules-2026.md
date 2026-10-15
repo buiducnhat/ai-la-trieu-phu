@@ -1,6 +1,6 @@
 # Luật chơi 2026 áp dụng trong game
 
-Nguồn: Ai là triệu phú Wiki (Phiên bản 15), Who Wants To Be A Millionaire Wiki (Ai Là Triệu Phú 2026), VTV/Tuổi Trẻ 31/03–01/04/2026. Phiên bản 15 phát sóng từ 31/03/2026. Cài đặt trong `src/lib/game/rules.ts`, có test.
+Nguồn: Ai là triệu phú Wiki (Phiên bản 15), Who Wants To Be A Millionaire Wiki (Ai Là Triệu Phú 2026), VTV/Tuổi Trẻ 31/03–01/04/2026. Phiên bản 15 phát sóng từ 31/03/2026. Cài đặt trong `src/lib/game/rules.ts`, có test. Đối chiếu lại với wiki ngày 15/10/2026: thang tiền, mốc và 4 quyền trợ giúp không đổi kể từ 31/03/2026.
 
 ## Thang tiền
 

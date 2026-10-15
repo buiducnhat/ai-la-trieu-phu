@@ -163,7 +163,7 @@ export function SettingsDialog({ open, onOpenChange, settings, onChange, config 
           </section>
 
           <section className="flex items-center justify-between">
-            <Label htmlFor="sound">Âm thanh 8-bit</Label>
+            <Label htmlFor="sound">Âm thanh</Label>
             <Switch
               id="sound"
               checked={settings.sound}

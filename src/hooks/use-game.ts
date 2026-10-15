@@ -11,7 +11,7 @@ import {
 } from "@/lib/game/engine";
 import type { LifelineId } from "@/lib/game/rules";
 import type { GameSettings, LifelineResult } from "@/lib/game/types";
-import type { SoundName } from "@/lib/sound";
+import type { SoundEvent } from "@/lib/sound";
 import {
   type ActionResult,
   fetchQuestionFn,
@@ -57,7 +57,7 @@ export interface GameApi {
 
 export function useGame(
   settings: GameSettings,
-  play: (name: SoundName) => void,
+  play: (event: SoundEvent) => void,
   onError: (message: string) => void,
 ): GameApi {
   const [state, dispatch] = useReducer(reduce, undefined, createInitialState);
@@ -136,6 +136,11 @@ export function useGame(
     void request(number + 1, 0, seen);
   }, [choosing, prefetchSource, number, seen, request]);
 
+  // Mỗi câu hỏi mới hiện ra: nhạc "Sẵn sàng" và nhạc nền câu đó.
+  useEffect(() => {
+    if (choosing) playRef.current({ type: "question", n: number });
+  }, [choosing, number]);
+
   const reportedError = useRef<string | null>(null);
   useEffect(() => {
     if (state.phase === "choosing" && state.error && state.error !== reportedError.current) {
@@ -148,13 +153,13 @@ export function useGame(
 
   const start = useCallback(() => {
     requests.current.clear();
-    playRef.current("start");
+    playRef.current({ type: "start" });
     setPendingLifeline(null);
     dispatch({ type: "start" });
   }, []);
 
   const select = useCallback((index: number) => {
-    playRef.current("select");
+    playRef.current({ type: "select" });
     dispatch({ type: "select", index });
   }, []);
 
@@ -163,7 +168,7 @@ export function useGame(
       return;
     busy.current = true;
     const { token, selected, number: n } = state;
-    playRef.current("lock");
+    playRef.current({ type: "lock", n });
     dispatch({ type: "lock" });
     void (async () => {
       const [result] = await Promise.all([
@@ -175,7 +180,7 @@ export function useGame(
         dispatch({ type: "lockFailed", message: result.error });
         return;
       }
-      playRef.current(result.data.correct ? (n === 15 ? "win" : "correct") : "wrong");
+      playRef.current({ type: "result", n, correct: result.data.correct });
       dispatch({ type: "answerRevealed", result: result.data });
     })();
   }, [state]);
@@ -188,6 +193,7 @@ export function useGame(
   const walkAway = useCallback(async () => {
     if (!canWalkAway(state) || !state.token) return;
     const { token, selected } = state;
+    playRef.current({ type: "walkAway" });
     dispatch({ type: "walkAway" });
     // Sau khi dừng, người chơi được xem đáp án đúng như trong chương trình.
     // Không lấy được đáp án cũng không ảnh hưởng tiền thưởng.
@@ -208,7 +214,7 @@ export function useGame(
         onErrorRef.current(result.error);
         return;
       }
-      playRef.current("lifeline");
+      playRef.current({ type: "lifeline", id });
       dispatch({ type: "lifelineUsed", id, result: result.data });
       if (result.data.kind !== "fiftyFifty") setPendingLifeline(result.data);
     },
@@ -219,7 +225,10 @@ export function useGame(
     state,
     pendingLifeline,
     lifelineBusy,
-    dismissLifeline: () => setPendingLifeline(null),
+    dismissLifeline: () => {
+      playRef.current({ type: "lifelineClosed" });
+      setPendingLifeline(null);
+    },
     start,
     select,
     lock,
@@ -228,6 +237,7 @@ export function useGame(
     useLifeline,
     retryLoad: () => dispatch({ type: "retry" }),
     reset: () => {
+      playRef.current({ type: "stop" });
       setPendingLifeline(null);
       dispatch({ type: "reset" });
     },

@@ -1,9 +1,9 @@
-# Ai Là Triệu Phú 8-bit
+# Ai Là Triệu Phú
 
 [![CI](https://github.com/buiducnhat/ai-la-trieu-phu/actions/workflows/ci.yml/badge.svg)](https://github.com/buiducnhat/ai-la-trieu-phu/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Trò chơi **Ai Là Triệu Phú** tiếng Việt, luật chơi **phiên bản 15 (phát sóng từ 31/03/2026, VTV3)**, giao diện pixel 8-bit.
+Trò chơi **Ai Là Triệu Phú** tiếng Việt, luật chơi **phiên bản 15 (phát sóng từ 31/03/2026, VTV3)**, giao diện pixel.
 [TanStack Start](https://tanstack.com/start) fullstack (Vite + React 19, server functions, không có backend tách rời) chạy trên **Cloudflare Workers**, shadcn/ui + [8bitcn](https://www.8bitcn.com/),
 câu hỏi lấy từ bộ dữ liệu công khai hoặc do LLM/AI tạo (cấu hình được).
 
@@ -106,7 +106,7 @@ src/components/game, ui/8bit      giao diện (8bitcn / shadcn)
   Đây là chống nhìn trộm qua DevTools, không phải chống gian lận có chủ đích.
 - Phương án được xáo trộn phía server cho mọi câu hỏi (bộ dữ liệu thường có đáp án lệch về một vị trí).
 - Phông: VT323 (đủ dấu tiếng Việt) cho chữ, Press Start 2P chỉ cho chữ số — Press Start 2P không có glyph tiếng Việt.
-- Âm thanh 8-bit tổng hợp bằng WebAudio, không cần file; thành tích lưu `localStorage`.
+- Âm thanh: tệp thật của chương trình nếu đã chạy `bun run audio:fetch` (cần ffmpeg), file đã nằm sẵn trong `public/audio/` và được commit; thiếu file thì chiptune tổng hợp bằng WebAudio; thành tích lưu `localStorage`. Xem `docs/architecture/audio.md`.
 
 ## Giấy phép
 
