@@ -13,7 +13,7 @@ src/lib/game/           rules.ts (luật 2026), engine.ts (reducer), types.ts  [
 src/lib/                llm-presets.ts, sound.ts + audio-cues.ts + audio-manifest.ts (âm thanh, xem architecture/audio.md), storage.ts (localStorage), utils.ts (cn)
 src/server/             game.functions.ts (createServerFn — ranh giới client/server) + bank, llm, lifelines, token, game-service, random, rate-limit  [marker "@tanstack/react-start/server-only"]
 src/hooks/              use-game.ts (reducer <-> server), use-timers.ts (typewriter, countdown)
-src/components/game/    menu, play screen, answer, ladder, lifeline bar/dialog, rules, settings, result, money
+src/components/game/    menu, play screen, answer, ladder, lifeline bar/dialog, rules, credits (ghi công & nguồn), settings, result, money
 src/components/ui/      shadcn + 8bit/ (sinh bởi shadcn CLI từ registry @8bitcn; không sửa tay, bị lint/format bỏ qua)
 src/data/bank/          questions.json, sources.json, README.md (sinh bởi scripts/import-bank.ts)
 src/test/server-only.ts Stub cho marker server-only khi chạy test (alias trong vite.config.ts)

@@ -1,4 +1,4 @@
-import { BookOpen, Play, Settings, Trophy } from "lucide-react";
+import { BookOpen, Info, Play, Settings, Trophy } from "lucide-react";
 
 import { Badge } from "@/components/ui/8bit/badge";
 import { Button } from "@/components/ui/8bit/button";
@@ -22,9 +22,18 @@ interface Props {
   onStart: () => void;
   onRules: () => void;
   onSettings: () => void;
+  onCredits: () => void;
 }
 
-export function MenuScreen({ settings, config, stats, onStart, onRules, onSettings }: Props) {
+export function MenuScreen({
+  settings,
+  config,
+  stats,
+  onStart,
+  onRules,
+  onSettings,
+  onCredits,
+}: Props) {
   const top = PRIZE_LADDER[TOTAL_QUESTIONS - 1] as number;
   const aiOn =
     settings.llm.provider !== "server" ? settings.llm.apiKey.trim() !== "" : config.llm.configured;
@@ -74,6 +83,10 @@ export function MenuScreen({ settings, config, stats, onStart, onRules, onSettin
           </span>
         </div>
       )}
+
+      <Button variant="ghost" onClick={onCredits} className="text-lg text-muted-foreground">
+        <Info className="size-4" /> Ghi công &amp; nguồn
+      </Button>
     </main>
   );
 }

@@ -8,6 +8,7 @@ import type { GameSettings, PublicConfig } from "@/lib/game/types";
 import { playSound, type SoundEvent, stopSound } from "@/lib/sound";
 import { loadSettings, loadStats, recordGame, saveSettings, type Stats } from "@/lib/storage";
 
+import { CreditsDialog } from "./credits-dialog";
 import { MenuScreen } from "./menu-screen";
 import { PlayScreen } from "./play-screen";
 import { RulesDialog } from "./rules-dialog";
@@ -21,7 +22,7 @@ export function GameApp({ config }: { config: PublicConfig }) {
     llm: { provider: "server", model: "", apiKey: "" },
   }));
   const [stats, setStats] = useState<Stats>({ games: 0, best: 0, history: [] });
-  const [dialog, setDialog] = useState<"rules" | "settings" | null>(null);
+  const [dialog, setDialog] = useState<"rules" | "settings" | "credits" | null>(null);
   const hydrated = useRef(false);
 
   // Đọc cài đặt/thành tích từ localStorage sau khi mount (tránh lệch SSR).
@@ -75,6 +76,7 @@ export function GameApp({ config }: { config: PublicConfig }) {
           onStart={game.start}
           onRules={() => setDialog("rules")}
           onSettings={() => setDialog("settings")}
+          onCredits={() => setDialog("credits")}
         />
       ) : (
         <PlayScreen
@@ -85,6 +87,10 @@ export function GameApp({ config }: { config: PublicConfig }) {
         />
       )}
       <RulesDialog open={dialog === "rules"} onOpenChange={(o) => setDialog(o ? "rules" : null)} />
+      <CreditsDialog
+        open={dialog === "credits"}
+        onOpenChange={(o) => setDialog(o ? "credits" : null)}
+      />
       <SettingsDialog
         open={dialog === "settings"}
         onOpenChange={(o) => setDialog(o ? "settings" : null)}
